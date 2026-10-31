@@ -1,0 +1,1997 @@
+[
+ {
+  "id": "v001",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which of these Georgia trees has COMPOUND leaves?",
+  "choices": [
+   "White Oak",
+   "Black Walnut",
+   "Red Maple",
+   "American Sycamore"
+  ],
+  "answerIndex": 1,
+  "explanation": "Black Walnut. Its leaf is one stalk carrying 15 to 23 separate leaflets. Six plants on the 2026 list are compound: the trees Black Walnut, Green Ash, and Red Hickory, plus Trumpet Creeper, Blackberry, and Eastern Poison Ivy, whose famous three leaflets are one compound leaf rather than three leaves.",
+  "source": "victoria"
+ },
+ {
+  "id": "v002",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "What is the difference between a simple leaf and a compound leaf?",
+  "choices": [
+   "A simple leaf has one undivided blade; a compound leaf has its blade split into separate leaflets on one stalk",
+   "A simple leaf has smooth edges; a compound leaf has toothed edges",
+   "A simple leaf grows opposite on the twig; a compound leaf grows alternate",
+   "A simple leaf belongs to evergreens; a compound leaf belongs to deciduous plants"
+  ],
+  "answerIndex": 0,
+  "explanation": "A simple leaf has one single blade attached to the twig. A compound leaf has its blade divided into several separate leaflets all growing from one leaf stalk.",
+  "source": "victoria"
+ },
+ {
+  "id": "v003",
+  "category": "Plants",
+  "topic": "Evergreen vs deciduous",
+  "question": "Loblolly Pine needles grow in bundles of:",
+  "choices": [
+   "2",
+   "3",
+   "5",
+   "single needles"
+  ],
+  "answerIndex": 1,
+  "explanation": "3. Counting needles per bundle is the fastest way to tell Georgia pines apart.",
+  "source": "victoria"
+ },
+ {
+  "id": "v004",
+  "category": "Plants",
+  "topic": "Evergreen vs deciduous",
+  "question": "Which two plants on the 2026 list are truly evergreen?",
+  "choices": [
+   "Loblolly Pine and Eastern Red Cedar",
+   "Loblolly Pine and Honeysuckle",
+   "Eastern Red Cedar and Flowering Dogwood",
+   "White Oak and Loblolly Pine"
+  ],
+  "answerIndex": 0,
+  "explanation": "Loblolly Pine and Eastern Red Cedar are the true evergreens. Watch out for Honeysuckle, which is semi-evergreen and often holds its leaves through a Georgia winter. Everything else is deciduous, meaning it drops its leaves each fall.",
+  "source": "victoria"
+ },
+ {
+  "id": "v005",
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Which rhyme helps you identify poison ivy?",
+  "choices": [
+   "\"Leaves of three, let it be.\"",
+   "\"Red touches yellow, kill a fellow.\"",
+   "\"Leaves of five, let it thrive.\"",
+   "\"Thorns on the vine, you'll be fine.\""
+  ],
+  "answerIndex": 0,
+  "explanation": "\"Leaves of three, let it be.\" Look for three leaflets with the middle leaflet on a longer stalk, a hairy climbing vine, and no thorns.",
+  "source": "victoria"
+ },
+ {
+  "id": "v006",
+  "category": "Plants",
+  "topic": "Invasive & native plants",
+  "question": "Which plant on the 2026 list can be an INVASIVE species in Georgia?",
+  "choices": [
+   "Muscadine",
+   "Trumpet Creeper",
+   "Honeysuckle",
+   "Flowering Dogwood"
+  ],
+  "answerIndex": 2,
+  "explanation": "Honeysuckle. Know both kinds. Japanese Honeysuckle came from Asia, spreads aggressively, and is one of Georgia’s worst invasive plants. Native Coral Honeysuckle is not invasive and is pollinated by hummingbirds. Every other plant on the list is native to Georgia.",
+  "source": "victoria"
+ },
+ {
+  "id": "v007",
+  "category": "Plants",
+  "topic": "Invasive & native plants",
+  "question": "Why is an invasive plant a problem for a backyard ecosystem?",
+  "choices": [
+   "It outcompetes native plants for sunlight, water and space, so animals that depend on natives lose food and habitat",
+   "It attracts so many pollinators that native flowers go unvisited",
+   "It uses up the soil's nitrogen, then dies each winter and leaves bare ground",
+   "It grows only in shade, so it blocks sunlight from the lawn"
+  ],
+  "answerIndex": 0,
+  "explanation": "It outcompetes native plants for sunlight, water, and space. When the native plants disappear, the insects and animals that evolved to eat and shelter in them lose their food and habitat.",
+  "source": "victoria"
+ },
+ {
+  "id": "v008",
+  "category": "Plants",
+  "topic": "Bark & tree ID",
+  "question": "Which tree has bark that peels off in patches, leaving a white and cream camouflage pattern?",
+  "choices": [
+   "American Sycamore",
+   "White Oak",
+   "Yellow Poplar",
+   "Red Maple"
+  ],
+  "answerIndex": 0,
+  "explanation": "American Sycamore. It is one of the easiest trees to identify from a bark sample alone.",
+  "source": "victoria"
+ },
+ {
+  "id": "v009",
+  "category": "Plants",
+  "topic": "Bark & tree ID",
+  "question": "\"Burnt potato chip\" bark describes which tree?",
+  "choices": [
+   "Black Cherry",
+   "White Oak",
+   "Green Ash",
+   "Red Mulberry"
+  ],
+  "answerIndex": 0,
+  "explanation": "Black Cherry. Its dark bark breaks into small curled scaly plates.",
+  "source": "victoria"
+ },
+ {
+  "id": "v010",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Which plant on the list is a native Georgia vine that produces thick-skinned, sweet, edible fruit?",
+  "choices": [
+   "Muscadine",
+   "Trumpet Creeper",
+   "Honeysuckle",
+   "Eastern Poison Ivy"
+  ],
+  "answerIndex": 0,
+  "explanation": "Muscadine, a native wild grape.",
+  "source": "victoria"
+ },
+ {
+  "id": "v011",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "What is a maple seed called, and how does it travel?",
+  "choices": [
+   "A samara; its papery wing spins like a helicopter so the wind carries it away",
+   "An acorn; squirrels carry it away",
+   "A drupe; birds eat the fleshy fruit and drop the seed",
+   "A catkin; it floats downstream on water"
+  ],
+  "answerIndex": 0,
+  "explanation": "A samara, often called a helicopter or whirlybird. Its papery wing makes it spin so the wind carries it away from the parent tree.",
+  "source": "victoria"
+ },
+ {
+  "id": "v012",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Which of these produces an acorn?",
+  "choices": [
+   "Yellow Poplar",
+   "Southern Red Oak",
+   "Red Hickory",
+   "Black Walnut"
+  ],
+  "answerIndex": 1,
+  "explanation": "Southern Red Oak. Only oaks make acorns. White Oak is the other oak on the 2026 list.",
+  "source": "victoria"
+ },
+ {
+  "id": "v013",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Why do so many animals on the 2026 list depend on oaks and hickories?",
+  "choices": [
+   "Acorns and hickory nuts are a high-fat food crop (mast) used to build fat for winter",
+   "Their leaves are the only food that stays green all winter",
+   "Their sap is a sugary liquid that attracts animals in summer",
+   "Their roots form burrows that animals shelter in"
+  ],
+  "answerIndex": 0,
+  "explanation": "Acorns and hickory nuts are a high-fat food crop called mast. White-tailed Deer, Black Bear, Eastern Chipmunk, Blue Jay, and many others eat mast to build up fat for winter.",
+  "source": "victoria"
+ },
+ {
+  "id": "v014",
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Which two plants on the list are dangerous to humans, and how?",
+  "choices": [
+   "Eastern Poison Ivy (urushiol causes a blistering rash) and American Pokeweed (poisonous if eaten)",
+   "Black Walnut and Blackberry, whose fruits are poisonous",
+   "Muscadine and Red Mulberry, whose fruits are poisonous",
+   "Yellow Poplar and Red Maple, whose flowers burn the skin"
+  ],
+  "answerIndex": 0,
+  "explanation": "Eastern Poison Ivy, whose urushiol oil causes an itchy blistering rash when it touches skin, and American Pokeweed, whose roots, stems, leaves, and berries are all poisonous if eaten.",
+  "source": "victoria"
+ },
+ {
+  "id": "v015",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "The blue \"berries\" on an Eastern Red Cedar are really:",
+  "choices": [
+   "true berries",
+   "cones",
+   "bare seeds",
+   "flowers"
+  ],
+  "answerIndex": 1,
+  "explanation": "Cones. Eastern Red Cedar is a conifer, so its fruit is a soft fleshy cone rather than a true berry.",
+  "source": "victoria"
+ },
+ {
+  "id": "v016",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Trumpet Creeper has bright orange tube-shaped flowers. Which pollinator is that flower shaped for?",
+  "choices": [
+   "Hummingbirds",
+   "Carpenter Ants",
+   "Eastern Hercules Beetles",
+   "Puss Caterpillars"
+  ],
+  "answerIndex": 0,
+  "explanation": "Hummingbirds. Long narrow red and orange tubes match a hummingbird’s bill and are the color it is drawn to, while most insects cannot reach the nectar.",
+  "source": "victoria"
+ },
+ {
+  "id": "v017",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which set of plants all have OPPOSITE leaves?",
+  "choices": [
+   "Red Maple, Green Ash, Flowering Dogwood, Honeysuckle, Trumpet Creeper",
+   "Red Maple, Green Ash, White Oak, Honeysuckle, Trumpet Creeper",
+   "Red Maple, Black Walnut, Flowering Dogwood, Honeysuckle, Trumpet Creeper",
+   "Green Ash, Flowering Dogwood, Black Cherry, Muscadine, Trumpet Creeper"
+  ],
+  "answerIndex": 0,
+  "explanation": "Red Maple, Green Ash, Flowering Dogwood, Honeysuckle, and Trumpet Creeper. Remember MAD-H for Maple, Ash, Dogwood, Honeysuckle, then add Trumpet Creeper, which is both opposite AND compound. Everything else on the list is alternate.",
+  "source": "victoria"
+ },
+ {
+  "id": "v018",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "What does \"deciduous\" mean?",
+  "choices": [
+   "The plant drops all of its leaves each fall and grows a new set in spring",
+   "The plant keeps green leaves all year",
+   "The plant makes its seeds inside cones",
+   "The plant's leaves grow in pairs directly across from each other"
+  ],
+  "answerIndex": 0,
+  "explanation": "The plant drops all of its leaves each fall and grows a new set in spring.",
+  "source": "victoria"
+ },
+ {
+  "id": "v019",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Yellow Poplar (Tulip Poplar) gets its name from:",
+  "choices": [
+   "yellow bark",
+   "tulip-shaped flowers and leaves",
+   "yellow wood",
+   "growing from bulbs"
+  ],
+  "answerIndex": 1,
+  "explanation": "Tulip-shaped flowers and leaves. Its orange and green flowers sit high in the tree and its leaf outline looks like a tulip.",
+  "source": "victoria"
+ },
+ {
+  "id": "v020",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Which plant on the list is a thorny shrub whose berries feed birds, bears and foxes?",
+  "choices": [
+   "Blackberry",
+   "Red Mulberry",
+   "Muscadine",
+   "Flowering Dogwood"
+  ],
+  "answerIndex": 0,
+  "explanation": "Blackberry. Its dense thorny canes also give small animals excellent cover from predators.",
+  "source": "victoria"
+ },
+ {
+  "id": "v021",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Black Walnut changes the soil around it. What does it do, and what is that called?",
+  "choices": [
+   "It releases juglone that stops many other plants growing nearby; this is called allelopathy",
+   "It releases juglone that helps other plants grow; this is called symbiosis",
+   "It releases urushiol that gives nearby plants a rash; this is called allelopathy",
+   "It soaks up all the nitrogen in the soil; this is called photosynthesis"
+  ],
+  "answerIndex": 0,
+  "explanation": "It releases a chemical called juglone that prevents many other plants from growing near it. Using chemicals to suppress competitors is called allelopathy.",
+  "source": "victoria"
+ },
+ {
+  "id": "v022",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Which plants on the list are vines rather than trees or shrubs?",
+  "choices": [
+   "Eastern Poison Ivy, Honeysuckle, Muscadine and Trumpet Creeper",
+   "Eastern Poison Ivy, Blackberry, Muscadine and Trumpet Creeper",
+   "Honeysuckle, Muscadine, Trumpet Creeper and American Pokeweed",
+   "Eastern Poison Ivy, Honeysuckle, Flowering Dogwood and Muscadine"
+  ],
+  "answerIndex": 0,
+  "explanation": "Eastern Poison Ivy, Honeysuckle, Muscadine, and Trumpet Creeper.",
+  "source": "victoria"
+ },
+ {
+  "id": "v023",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which bird on the 2026 list is Georgia's state bird?",
+  "choices": [
+   "Brown Thrasher",
+   "Northern Mockingbird",
+   "Eastern Bluebird",
+   "Blue Jay"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Brown Thrasher.",
+  "source": "victoria"
+ },
+ {
+  "id": "v024",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "\"Who cooks for you, who cooks for you all?\" is the call of the:",
+  "choices": [
+   "Great Horned Owl",
+   "Barred Owl",
+   "Barn Owl",
+   "Mourning Dove"
+  ],
+  "answerIndex": 1,
+  "explanation": "Barred Owl.",
+  "source": "victoria"
+ },
+ {
+  "id": "v025",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "Which owl makes a harsh raspy shriek instead of a hoot, and has a white heart-shaped face?",
+  "choices": [
+   "Barn Owl",
+   "Barred Owl",
+   "Great Horned Owl",
+   "Red-Shouldered Hawk"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Barn Owl. This species is NEW to the 2026 list.",
+  "source": "victoria"
+ },
+ {
+  "id": "v026",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "Which set lists the three owls on the 2026 list?",
+  "choices": [
+   "Barred Owl, Great Horned Owl, Barn Owl",
+   "Barred Owl, Great Horned Owl, Red-Shouldered Hawk",
+   "Barn Owl, Bald Eagle, Barred Owl",
+   "Great Horned Owl, Barn Swallow, Barn Owl"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barred Owl, Great Horned Owl, and Barn Owl.",
+  "source": "victoria"
+ },
+ {
+  "id": "v027",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which bird is famous for copying other birds’ songs?",
+  "choices": [
+   "Brown Thrasher",
+   "Northern Mockingbird",
+   "Blue Jay",
+   "House Wren"
+  ],
+  "answerIndex": 1,
+  "explanation": "Northern Mockingbird. A Brown Thrasher also sings many songs but usually repeats each phrase twice, while a mockingbird repeats three or more times.",
+  "source": "victoria"
+ },
+ {
+  "id": "v028",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "What do Barn Owls mainly eat, and where do they hunt?",
+  "choices": [
+   "Small rodents like voles and mice, hunted low over open fields at night",
+   "Fish, caught from rivers at dusk",
+   "Insects, caught in flight over ponds",
+   "Seeds and acorns, gathered from the forest floor"
+  ],
+  "answerIndex": 0,
+  "explanation": "Small rodents, especially voles and mice. They hunt low over open fields, meadows, pastures, and farmland at night.",
+  "source": "victoria"
+ },
+ {
+  "id": "v029",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "A Barn Owl's face is shaped like a dish. Why?",
+  "choices": [
+   "It funnels sound into the ears so the owl can find prey by hearing in total darkness",
+   "It collects heat to keep the owl warm at night",
+   "It reflects moonlight so prey is easier to see",
+   "It makes the owl look bigger to scare predators"
+  ],
+  "answerIndex": 0,
+  "explanation": "The heart-shaped facial disc funnels sound into its ears, so it can pinpoint a mouse by hearing alone in total darkness.",
+  "source": "victoria"
+ },
+ {
+  "id": "v030",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which bird builds a mud cup nest under bridges and barn eaves and has a deeply forked tail?",
+  "choices": [
+   "House Wren",
+   "Barn Swallow",
+   "Eastern Bluebird",
+   "Mourning Dove"
+  ],
+  "answerIndex": 1,
+  "explanation": "Barn Swallow. It catches insects on the wing and is a summer nester in Georgia, not a year-round resident.",
+  "source": "victoria"
+ },
+ {
+  "id": "v031",
+  "category": "Birds",
+  "topic": "Bird beaks & feet",
+  "question": "What shape is the beak of a seed-eating bird?",
+  "choices": [
+   "Short, thick and cone-shaped for cracking seeds",
+   "Long, thin and curved for probing flowers",
+   "Sharp and hooked for tearing meat",
+   "Flat and wide for scooping up mud"
+  ],
+  "answerIndex": 0,
+  "explanation": "Short, thick, and cone-shaped for cracking seeds. Carolina Chickadee, Tufted Titmouse, and Mourning Dove all eat seeds.",
+  "source": "victoria"
+ },
+ {
+  "id": "v032",
+  "category": "Birds",
+  "topic": "Bird beaks & feet",
+  "question": "What shape are a bird of prey's beak and feet, and why?",
+  "choices": [
+   "A sharp hooked beak for tearing meat and strong feet with curved talons for seizing prey",
+   "A short thick beak for cracking seeds and webbed feet for swimming",
+   "A long straight beak for probing mud and long thin toes for wading",
+   "A flat beak for filtering water and blunt toes for scratching soil"
+  ],
+  "answerIndex": 0,
+  "explanation": "A sharp hooked beak for tearing meat, and strong feet with curved talons for seizing and killing prey.",
+  "source": "victoria"
+ },
+ {
+  "id": "v033",
+  "category": "Birds",
+  "topic": "Bird beaks & feet",
+  "question": "Which two birds of prey on the list are NOT owls?",
+  "choices": [
+   "Bald Eagle and Red-Shouldered Hawk",
+   "Bald Eagle and Barred Owl",
+   "Red-Shouldered Hawk and Great Horned Owl",
+   "Bald Eagle and Barn Swallow"
+  ],
+  "answerIndex": 0,
+  "explanation": "Bald Eagle and Red-Shouldered Hawk.",
+  "source": "victoria"
+ },
+ {
+  "id": "v034",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "A Bald Eagle gets its white head and tail at about:",
+  "choices": [
+   "hatching",
+   "1 year",
+   "4 to 5 years",
+   "never"
+  ],
+  "answerIndex": 2,
+  "explanation": "4 to 5 years. Young Bald Eagles are mottled brown and are often mistaken for hawks or vultures.",
+  "source": "victoria"
+ },
+ {
+  "id": "v035",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "What does a Bald Eagle eat, and where does it nest?",
+  "choices": [
+   "Mostly fish, waterbirds and carrion; a huge stick nest high in a tall tree near water",
+   "Mostly seeds; a mud cup nest under a bridge",
+   "Mostly earthworms; a grass cup nest on the ground",
+   "Mostly insects; a nest in a hole in a dead tree"
+  ],
+  "answerIndex": 0,
+  "explanation": "Mostly fish, plus waterbirds and carrion. It builds an enormous stick nest high in a tall tree near a lake, river, or coast, and reuses it year after year.",
+  "source": "victoria"
+ },
+ {
+  "id": "v036",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which bird on the list nests in holes and readily moves into nest boxes, a Georgia conservation success story?",
+  "choices": [
+   "Eastern Bluebird",
+   "Bald Eagle",
+   "Barn Swallow",
+   "Blue Jay"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Eastern Bluebird. Nest box programs helped its population recover.",
+  "source": "victoria"
+ },
+ {
+  "id": "v037",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Carolina Chickadees are known for:",
+  "choices": [
+   "migrating to South America",
+   "remembering hundreds of hidden food locations",
+   "eating only fish",
+   "nesting on the ground"
+  ],
+  "answerIndex": 1,
+  "explanation": "Remembering hundreds of hidden food locations. They cache seeds in fall and recall the spots through winter.",
+  "source": "victoria"
+ },
+ {
+  "id": "v038",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which bird runs and stops across lawns, cocking its head to hunt earthworms?",
+  "choices": [
+   "American Robin",
+   "Mourning Dove",
+   "Tufted Titmouse",
+   "Barn Swallow"
+  ],
+  "answerIndex": 0,
+  "explanation": "The American Robin. It hunts partly by sight and partly by feeling worm movement in the soil.",
+  "source": "victoria"
+ },
+ {
+  "id": "v039",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Red-Shouldered Hawks give a loud repeated \"kee-ah.\" Which bird on the list imitates that call?",
+  "choices": [
+   "Blue Jay",
+   "Eastern Bluebird",
+   "Mourning Dove",
+   "Barn Swallow"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Blue Jay. It mimics hawk calls, which may scare other birds away from a feeder.",
+  "source": "victoria"
+ },
+ {
+  "id": "v040",
+  "category": "Birds",
+  "topic": "Residents & migrants",
+  "question": "What does \"year-round resident\" mean?",
+  "choices": [
+   "A bird that stays in Georgia all year instead of migrating, like the Northern Mockingbird or Carolina Chickadee",
+   "A bird that nests in Georgia only in summer and migrates south, like the Barn Swallow",
+   "A bird that lives only near water all year, like the Bald Eagle",
+   "A bird that hunts only in the daytime, like the Barred Owl"
+  ],
+  "answerIndex": 0,
+  "explanation": "A bird that stays in Georgia all year instead of migrating. Examples: Northern Mockingbird, Brown Thrasher, Carolina Chickadee, Blue Jay, Tufted Titmouse, Barred Owl.",
+  "source": "victoria"
+ },
+ {
+  "id": "v041",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Which statement correctly compares reptiles and amphibians?",
+  "choices": [
+   "Reptiles: dry scaly skin, leathery eggs on land, lungs for life. Amphibians: moist smooth skin, jelly eggs in water, gilled larvae",
+   "Reptiles: moist smooth skin, jelly eggs in water, gilled larvae. Amphibians: dry scaly skin, leathery eggs on land, lungs for life",
+   "Reptiles are warm-blooded with fur; amphibians are cold-blooded with scales",
+   "Reptiles lay eggs in water; amphibians give birth to live young"
+  ],
+  "answerIndex": 0,
+  "explanation": "Reptiles have dry scaly skin, lay leathery eggs on land, and breathe with lungs their whole life. Amphibians have moist smooth skin, lay jelly-covered eggs in water, and most hatch as gilled larvae that metamorphose into air-breathing adults.",
+  "source": "victoria"
+ },
+ {
+  "id": "v042",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Which set contains only the amphibians on the 2026 list?",
+  "choices": [
+   "American Toad, Eastern Narrow Mouth Toad, Southern Leopard Frog, Marbled Salamander",
+   "American Toad, Southern Leopard Frog, Marbled Salamander, Green Anole",
+   "American Toad, Eastern Narrow Mouth Toad, Common Snapping Turtle, Marbled Salamander",
+   "Eastern Narrow Mouth Toad, Southern Leopard Frog, Marbled Salamander, Southeastern Five-Lined Skink"
+  ],
+  "answerIndex": 0,
+  "explanation": "American Toad, Eastern Narrow Mouth Toad, Southern Leopard Frog, and Marbled Salamander. The other eight are reptiles.",
+  "source": "victoria"
+ },
+ {
+  "id": "v043",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How many venomous snakes are on the 2026 list, and what are they?",
+  "choices": [
+   "Three: Copperhead, Cottonmouth and Timber Rattlesnake",
+   "Two: Copperhead and Cottonmouth",
+   "Four: Copperhead, Cottonmouth, Timber Rattlesnake and Eastern Kingsnake",
+   "Three: Copperhead, Cottonmouth and Eastern Kingsnake"
+  ],
+  "answerIndex": 0,
+  "explanation": "Three: Copperhead, Cottonmouth, and Timber Rattlesnake. All three are pit vipers.",
+  "source": "victoria"
+ },
+ {
+  "id": "v044",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "What features do Georgia's pit vipers share?",
+  "choices": [
+   "Wide triangular head, vertical pupils and a heat-sensing pit between each eye and nostril",
+   "Round head, round pupils and no pits",
+   "Narrow head, vertical pupils and bright red and yellow bands",
+   "Round head, vertical pupils and smooth shiny scales"
+  ],
+  "answerIndex": 0,
+  "explanation": "A wide triangular head noticeably broader than the neck, vertical cat-like pupils, a heat-sensing pit between each eye and nostril, and a thick heavy body. Harmless snakes like the Eastern Kingsnake have rounded heads and round pupils.",
+  "source": "victoria"
+ },
+ {
+  "id": "v045",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Why is the Eastern Kingsnake a good snake to have in your yard?",
+  "choices": [
+   "It is non-venomous and eats other snakes, including Copperheads and rattlesnakes",
+   "It is venomous and keeps rodents away",
+   "It is non-venomous and eats only insects",
+   "It eats seeds and spreads native plants"
+  ],
+  "answerIndex": 0,
+  "explanation": "It is non-venomous and it eats other snakes, including Copperheads and rattlesnakes, because it is resistant to their venom.",
+  "source": "victoria"
+ },
+ {
+  "id": "v046",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "A snake with a solid black tail tipped by a rattle is a:",
+  "choices": [
+   "Cottonmouth",
+   "Copperhead",
+   "Timber Rattlesnake",
+   "Eastern Kingsnake"
+  ],
+  "answerIndex": 2,
+  "explanation": "Timber Rattlesnake. The black tail is the giveaway even before you see the rattle.",
+  "source": "victoria"
+ },
+ {
+  "id": "v047",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Where in Georgia would you find a Cottonmouth, and why does it live there?",
+  "choices": [
+   "Southeastern Plains and Southern Coastal Plains; it is semi-aquatic and needs swamps and wetlands",
+   "Blue Ridge; it needs cold fast mountain streams and rocky ridges",
+   "Piedmont; it needs dry red-clay hillsides",
+   "Ridge and Valley; it needs dry limestone caves"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Southeastern Plains and Southern Coastal Plains. It is semi-aquatic and needs swamps, river floodplains, and wetlands where it hunts frogs, fish, and small animals.",
+  "source": "victoria"
+ },
+ {
+  "id": "v048",
+  "category": "Reptiles & Amphibians",
+  "topic": "Gopher Tortoise & keystones",
+  "question": "Why is the Gopher Tortoise called a keystone species?",
+  "choices": [
+   "Its deep burrows shelter more than 300 other kinds of animals",
+   "It eats more plants than any other Georgia reptile",
+   "It is the only Georgia reptile that lays eggs",
+   "It is the largest predator in its habitat"
+  ],
+  "answerIndex": 0,
+  "explanation": "Its deep burrows shelter more than 300 other kinds of animals, including snakes, frogs, insects, and mammals. Georgia DNR says more than 300; some sources say 350 to 360. Remove the tortoise and all of those species lose their refuge.",
+  "source": "victoria"
+ },
+ {
+  "id": "v049",
+  "category": "Reptiles & Amphibians",
+  "topic": "Gopher Tortoise & keystones",
+  "question": "What is Georgia's state reptile, and what habitat does it need?",
+  "choices": [
+   "Gopher Tortoise; deep sandy well-drained soil for burrows plus open sunny ground",
+   "Green Anole; wet swamps with deep mud",
+   "Eastern Kingsnake; rocky mountain ledges",
+   "Timber Rattlesnake; wet floodplain forests"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Gopher Tortoise. It needs deep, sandy, well-drained soil it can dig burrows in, plus open sunny ground for basking and nesting, found in the Coastal Plain sandhills.",
+  "source": "victoria"
+ },
+ {
+  "id": "v050",
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "Green Anoles can:",
+  "choices": [
+   "change from green to brown",
+   "fly",
+   "live underwater",
+   "regrow legs"
+  ],
+  "answerIndex": 0,
+  "explanation": "Change from green to brown, depending on temperature, stress, and surroundings. Males also flash a pink throat fan called a dewlap.",
+  "source": "victoria"
+ },
+ {
+  "id": "v051",
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "What does a Southeastern Five-Lined Skink do if a predator grabs its tail, and what is that called?",
+  "choices": [
+   "It drops the tail, which keeps wriggling to distract the predator; this is called autotomy",
+   "It drops the tail, which keeps wriggling; this is called metamorphosis",
+   "It changes color to match the ground; this is called camouflage",
+   "It plays dead until the predator leaves; this is called torpor"
+  ],
+  "answerIndex": 0,
+  "explanation": "It detaches the tail, which keeps wriggling to distract the predator while the skink escapes, then grows a new one. This is called autotomy.",
+  "source": "victoria"
+ },
+ {
+  "id": "v052",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Why is the Marbled Salamander's breeding unusual?",
+  "choices": [
+   "It breeds on land in fall; the eggs hatch when autumn or winter rain floods the spot",
+   "It breeds in spring in deep lakes",
+   "It gives birth to fully formed live young",
+   "It lays its eggs in treetop nests"
+  ],
+  "answerIndex": 0,
+  "explanation": "It breeds on land in the fall instead of in water in the spring. The female lays eggs in a dry depression and guards them until autumn or winter rain floods the spot and they hatch.",
+  "source": "victoria"
+ },
+ {
+  "id": "v053",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Which describes metamorphosis in the Southern Leopard Frog?",
+  "choices": [
+   "Egg in water, tadpole with gills and tail, grows legs while tail and gills are absorbed, air-breathing adult",
+   "Egg on land, larva, pupa in a cocoon, adult",
+   "Egg, froglet with lungs, tadpole with gills, adult",
+   "Live tadpoles that keep their gills and just shed skin each year"
+  ],
+  "answerIndex": 0,
+  "explanation": "An egg is laid in water, hatches into a tadpole with gills and a tail, then grows back legs and front legs while the tail and gills are absorbed, and finally becomes an adult frog that breathes air with lungs.",
+  "source": "victoria"
+ },
+ {
+  "id": "v054",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "How can you tell a toad from a frog?",
+  "choices": [
+   "Toads have dry bumpy skin and shorter legs for short hops; frogs have smooth moist skin and long legs for long leaps",
+   "Toads have smooth moist skin and long legs for long leaps; frogs have dry bumpy skin and shorter legs",
+   "Toads lay eggs on land; frogs lay eggs in water",
+   "Toads keep their tails as adults; frogs lose them"
+  ],
+  "answerIndex": 0,
+  "explanation": "Toads have dry bumpy warty skin, shorter back legs, and hop short distances or walk, and they can live far from water. Frogs have smooth moist skin, long powerful legs for long leaps, and stay near water.",
+  "source": "victoria"
+ },
+ {
+  "id": "v055",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "The Eastern Narrow Mouth Toad has a pointed snout. What is that for?",
+  "choices": [
+   "It lets the toad squeeze into tight burrows and crevices to feed on ants and termites",
+   "It cracks open seeds",
+   "It senses the heat of prey",
+   "It helps it swim fast"
+  ],
+  "answerIndex": 0,
+  "explanation": "Its narrow pointed head lets it squeeze into tight burrows and crevices and feed on ants and termites.",
+  "source": "victoria"
+ },
+ {
+  "id": "v056",
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "What does a Common Snapping Turtle eat, and how does it defend itself?",
+  "choices": [
+   "It is an omnivore (fish, frogs, insects, carrion, plants); it defends with a long fast neck and powerful bite",
+   "It eats only plants; it pulls fully inside its shell",
+   "It eats only fish; it sprays venom",
+   "It eats only insects; it pulls fully inside its shell"
+  ],
+  "answerIndex": 0,
+  "explanation": "It is an omnivore, eating fish, frogs, insects, carrion, and water plants. Because it cannot pull fully inside its shell, it defends itself with a long fast-striking neck and a powerful bite.",
+  "source": "victoria"
+ },
+ {
+  "id": "v057",
+  "category": "Mammals",
+  "topic": "Habitat needs & ecology",
+  "question": "What four things does every animal need from its habitat?",
+  "choices": [
+   "Food, water, cover (shelter) and space",
+   "Food, water, sunlight and soil",
+   "Food, air, warmth and a mate",
+   "Water, shelter, predators and light"
+  ],
+  "answerIndex": 0,
+  "explanation": "Food, water, cover (shelter), and space, arranged close enough together that the animal can reach all four.",
+  "source": "victoria"
+ },
+ {
+  "id": "v058",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "Which mammal is North America's only marsupial, carrying its young in a pouch?",
+  "choices": [
+   "Opossum",
+   "Armadillo",
+   "Raccoon",
+   "Beaver"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Opossum. A marsupial female carries and nurses her tiny underdeveloped young inside a pouch.",
+  "source": "victoria"
+ },
+ {
+  "id": "v059",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "Which mammal is an ecosystem engineer that creates whole wetlands?",
+  "choices": [
+   "Beaver",
+   "Mole",
+   "Vole",
+   "Bobcat"
+  ],
+  "answerIndex": 0,
+  "explanation": "Beaver. It is NEW to the 2026 list.",
+  "source": "victoria"
+ },
+ {
+  "id": "v060",
+  "category": "Mammals",
+  "topic": "Habitat needs & ecology",
+  "question": "How does a Beaver change its habitat, and which animals from the list benefit?",
+  "choices": [
+   "It cuts trees and dams streams, flooding land into wetlands; Southern Leopard Frog and Barred Owl benefit",
+   "It tunnels through soil and loosens it; Mole and Vole benefit",
+   "It clears brush by eating it; Bobcat and Coyote benefit",
+   "It builds treetop nests; Barn Owl and Blue Jay benefit"
+  ],
+  "answerIndex": 0,
+  "explanation": "It cuts down trees and dams streams, flooding land into ponds and wetlands. Southern Leopard Frog, American Toad, Marbled Salamander, Cottonmouth, Common Snapping Turtle, and Barred Owl all gain habitat.",
+  "source": "victoria"
+ },
+ {
+  "id": "v061",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "What is the key difference between what a Mole eats and what a Vole eats?",
+  "choices": [
+   "A Mole eats earthworms, grubs and insects; a Vole eats roots, bulbs, stems and bark",
+   "A Mole eats roots and bark; a Vole eats earthworms and insects",
+   "Both mainly eat seeds, but a Mole eats more of them",
+   "A Mole eats fruit; a Vole eats fish"
+  ],
+  "answerIndex": 0,
+  "explanation": "A Mole is an insectivore that eats earthworms, grubs, and insects. A Vole is a rodent that eats roots, bulbs, stems, and bark. So chewed plant roots in a garden are the Vole’s work, not the Mole’s.",
+  "source": "victoria"
+ },
+ {
+  "id": "v062",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "A Mole's front feet are huge and shovel-shaped. What is that adaptation for?",
+  "choices": [
+   "Digging tunnels to hunt earthworms and insects underground",
+   "Swimming in streams",
+   "Climbing trees",
+   "Gripping prey in flight"
+  ],
+  "answerIndex": 0,
+  "explanation": "Digging tunnels through soil to hunt earthworms and insects underground.",
+  "source": "victoria"
+ },
+ {
+  "id": "v063",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "Which member of the dog family on the list can climb trees?",
+  "choices": [
+   "Red Fox",
+   "Grey Fox",
+   "Coyote",
+   "None of them"
+  ],
+  "answerIndex": 1,
+  "explanation": "Grey Fox. It has curved semi-retractable claws and is the only North American canine that regularly climbs trees.",
+  "source": "victoria"
+ },
+ {
+  "id": "v064",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "How can you tell a Red Fox from a Grey Fox?",
+  "choices": [
+   "Red Fox: rusty coat, black lower legs, white-tipped tail. Grey Fox: grey coat, black-striped tail, climbs trees",
+   "Red Fox: grey coat with a black-striped tail. Grey Fox: rusty coat with a white-tipped tail",
+   "Red Fox: climbs trees. Grey Fox: rusty coat and black lower legs",
+   "Red Fox is active only at night; Grey Fox is active only by day"
+  ],
+  "answerIndex": 0,
+  "explanation": "A Red Fox has a rusty red coat, black lower legs like stockings, and a white-tipped tail. A Grey Fox has a salt-and-pepper grey coat with rusty patches, a black stripe along the top of the tail ending in a black tip, and it can climb trees.",
+  "source": "victoria"
+ },
+ {
+  "id": "v065",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "Which mammal is Georgia's largest, and where does it live (per the event's ecoregion chart)?",
+  "choices": [
+   "Black Bear; Blue Ridge and Southwestern Appalachians",
+   "White-tailed Deer; all six ecoregions",
+   "Bobcat; the coastal marshes",
+   "Beaver; the Piedmont only"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Black Bear. The event’s ecoregion chart puts it in the Blue Ridge and Southwestern Appalachians. In real life Georgia has three separate populations: the north Georgia mountains, which is the largest, central Georgia along the Ocmulgee River south of Macon, and the Okefenokee Swamp in the southeast. Give the chart answer first, then add the other two populations.",
+  "source": "victoria"
+ },
+ {
+  "id": "v066",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "The Armadillo eats mainly:",
+  "choices": [
+   "acorns",
+   "insects and grubs",
+   "fish",
+   "leaves"
+  ],
+  "answerIndex": 1,
+  "explanation": "Insects and grubs, which it digs out of soil with its claws and long sticky tongue.",
+  "source": "victoria"
+ },
+ {
+  "id": "v067",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "Why is the Armadillo's Georgia range spreading north?",
+  "choices": [
+   "Armadillos have little body fat so hard freezes kill them; milder winters let them spread north",
+   "They follow rivers north to find more water",
+   "Coyotes are driving them out of the south",
+   "They hibernate deeper in the soil and spread out in spring"
+  ],
+  "answerIndex": 0,
+  "explanation": "Armadillos have little body fat and no thick fur, so hard freezes kill them. Milder winters have let them expand from the Coastal Plain up into the Piedmont.",
+  "source": "victoria"
+ },
+ {
+  "id": "v068",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "Which mammals on the list are rodents?",
+  "choices": [
+   "Beaver, Vole and Eastern Chipmunk",
+   "Beaver, Mole and Eastern Chipmunk",
+   "Vole, Opossum and Eastern Chipmunk",
+   "Beaver, Vole and Armadillo"
+  ],
+  "answerIndex": 0,
+  "explanation": "Beaver, Vole, and Eastern Chipmunk. Rodents have a pair of chisel-shaped front teeth that never stop growing.",
+  "source": "victoria"
+ },
+ {
+  "id": "v069",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "What do an Eastern Chipmunk's cheek pouches do, and how does it spend the winter?",
+  "choices": [
+   "Carry seeds and nuts to a burrow pantry; it passes winter in torpor, waking up to eat its stored food",
+   "Carry water to the burrow; it migrates south for winter",
+   "Carry food to feed its young; it sleeps in a treetop nest",
+   "Store fat for winter; it never wakes until spring"
+  ],
+  "answerIndex": 0,
+  "explanation": "It stuffs seeds and nuts into its cheek pouches to haul them to an underground burrow pantry. It passes winter in that burrow in torpor, waking up periodically to eat its stored food.",
+  "source": "victoria"
+ },
+ {
+  "id": "v070",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "What does \"nocturnal\" mean, and which animals fit?",
+  "choices": [
+   "Active at night, such as Raccoon, Opossum and Bobcat",
+   "Active during the day, such as Eastern Chipmunk, Raccoon and Opossum",
+   "Sleeps all winter, such as Eastern Chipmunk, Bobcat and Beaver",
+   "Lives underground, such as Mole, Vole and Armadillo"
+  ],
+  "answerIndex": 0,
+  "explanation": "Active at night. Raccoon, Opossum, Bobcat, Armadillo, Beaver, and both foxes are mostly nocturnal.",
+  "source": "victoria"
+ },
+ {
+  "id": "v071",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "Why does a White-tailed Deer flash its tail?",
+  "choices": [
+   "It signals danger to other deer and gives a fawn a bright target to follow",
+   "It attracts a mate",
+   "It sheds body heat",
+   "It marks territory with scent"
+  ],
+  "answerIndex": 0,
+  "explanation": "Raising the white underside like a flag signals danger to other deer and gives a fawn a bright target to follow as the herd runs.",
+  "source": "victoria"
+ },
+ {
+  "id": "v072",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "What signs would tell you a Raccoon visited your yard even if you never saw it?",
+  "choices": [
+   "Five-fingered hand-like tracks, tipped-over trash cans and raided bird feeders",
+   "Raised tunnel ridges and mounds of soil across the lawn",
+   "Gnawed tree stumps and a dam of sticks",
+   "Feathers, webbed tracks and owl pellets"
+  ],
+  "answerIndex": 0,
+  "explanation": "Five-fingered hand-like tracks, tipped-over trash cans, raided bird feeders, muddy handprints on containers, and scat full of berry seeds.",
+  "source": "victoria"
+ },
+ {
+  "id": "v073",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "Two of the seven animals in the 2026 \"Insects\" category are not insects. Which two, and what are they?",
+  "choices": [
+   "Black Widow and Lone Star Tick; they are arachnids",
+   "Monarch Butterfly and Puss Caterpillar; they are arachnids",
+   "Carpenter Ant and Eastern Hercules Beetle; they are crustaceans",
+   "American Bumblebee and Black Widow; they are arachnids"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Black Widow (a spider) and the Lone Star Tick. Both are arachnids, not insects.",
+  "source": "victoria"
+ },
+ {
+  "id": "v074",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "How do you tell an insect from an arachnid?",
+  "choices": [
+   "Insects have 3 body parts, 6 legs and antennae; arachnids have 8 legs and no antennae or wings",
+   "Insects have 8 legs; arachnids have 6 legs",
+   "Insects never have wings; arachnids always have wings",
+   "Insects have 2 body parts and 8 legs; arachnids have 3 parts and 6 legs"
+  ],
+  "answerIndex": 0,
+  "explanation": "An insect has 3 body parts (head, thorax, abdomen), 6 legs, antennae, and usually wings. An arachnid has 8 legs, no antennae, and no wings. A spider shows 2 body parts, while a tick’s two sections are fused so tightly it looks like just one. The reliable test is always to count the legs.",
+  "source": "victoria"
+ },
+ {
+  "id": "v075",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "A life cycle with all four stages, egg to larva to pupa to adult, is called:",
+  "choices": [
+   "incomplete metamorphosis",
+   "complete metamorphosis",
+   "molting",
+   "hibernation"
+  ],
+  "answerIndex": 1,
+  "explanation": "Complete metamorphosis. All five true insects on the 2026 list go through it.",
+  "source": "victoria"
+ },
+ {
+  "id": "v076",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "What is the only plant a Monarch caterpillar eats, and what does it do for the caterpillar?",
+  "choices": [
+   "Milkweed; its toxins build up in the body and make the Monarch poisonous to predators",
+   "Honeysuckle; its nectar gives the caterpillar energy to migrate",
+   "Trumpet Creeper; its tubes shelter the chrysalis",
+   "Blackberry; its thorns protect the caterpillar"
+  ],
+  "answerIndex": 0,
+  "explanation": "Milkweed. The milkweed’s toxins build up in the caterpillar’s body and stay there into adulthood, making the Monarch taste bad and be poisonous to predators.",
+  "source": "victoria"
+ },
+ {
+  "id": "v077",
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "Adult Monarchs and American Bumblebees visit flowers. What are they doing for the plant?",
+  "choices": [
+   "Pollinating it: they carry pollen from flower to flower so the plant can make seeds and fruit",
+   "Decomposing it so nutrients return to the soil",
+   "Eating its seeds so they can spread",
+   "Parasitizing it to steal its sap"
+  ],
+  "answerIndex": 0,
+  "explanation": "Both are pollinators. While drinking nectar they pick up pollen on their bodies and carry it to the next flower, which lets the plant make seeds and fruit.",
+  "source": "victoria"
+ },
+ {
+  "id": "v078",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Is the Monarch butterfly a federally protected endangered species?",
+  "choices": [
+   "No; the U.S. Fish and Wildlife Service proposed listing it as threatened in December 2024, but no final rule has been issued",
+   "Yes; it has been listed as endangered since 2024",
+   "No; its numbers are healthy and rising",
+   "Yes; it has been listed as threatened since 2015"
+  ],
+  "answerIndex": 0,
+  "explanation": "No. In December 2024 the U.S. Fish and Wildlife Service PROPOSED listing it as threatened under the Endangered Species Act, but no final rule has been issued, so it is not federally protected yet. It is still a well-known declining species and a flagship for pollinator conservation.",
+  "source": "victoria"
+ },
+ {
+  "id": "v079",
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "Why are American Bumblebee numbers dropping?",
+  "choices": [
+   "Loss of flower-rich habitat, pesticides, disease from managed bees and climate change",
+   "Too many Monarchs are competing for nectar",
+   "A boom in wild milkweed is crowding out other flowers",
+   "They are all migrating to Canada"
+  ],
+  "answerIndex": 0,
+  "explanation": "Loss of flower-rich grassland and meadow habitat, pesticide use, disease spread from managed bees, and climate change.",
+  "source": "victoria"
+ },
+ {
+  "id": "v080",
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "A bumblebee differs from a honeybee because it:",
+  "choices": [
+   "cannot sting",
+   "can sting more than once",
+   "has no wings",
+   "eats wood"
+  ],
+  "answerIndex": 1,
+  "explanation": "Can sting more than once. A bumblebee keeps its smooth stinger, while a honeybee’s barbed stinger tears free and the bee dies.",
+  "source": "victoria"
+ },
+ {
+  "id": "v081",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Carpenter Ants tunnel through wood but do not eat it. What do they eat?",
+  "choices": [
+   "Sweet liquids like honeydew and fruit juice, plus insects and meat",
+   "The wood they chew out",
+   "Leaves and bark",
+   "Blood from mammals"
+  ],
+  "answerIndex": 0,
+  "explanation": "Sweet liquids such as honeydew from aphids and fruit juice, plus protein from other insects, meat, and fats.",
+  "source": "victoria"
+ },
+ {
+  "id": "v082",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "What should you do if a Puss Caterpillar stings you, and what does it grow into?",
+  "choices": [
+   "Lift the hairs out with tape, wash and ice the area; it becomes a Southern Flannel Moth",
+   "Suck the venom out with your mouth; it becomes a Monarch",
+   "Scrub hard with soap and rub the hairs in; it becomes a Hercules Beetle",
+   "Ignore it; it becomes a bumblebee"
+  ],
+  "answerIndex": 0,
+  "explanation": "Lift the venomous hairs out with tape, wash the area, and apply ice; get medical help if the reaction is severe. It becomes the adult Southern Flannel Moth.",
+  "source": "victoria"
+ },
+ {
+  "id": "v083",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "Eastern Hercules Beetle grubs spend about a year inside rotting wood. Why does that help the forest?",
+  "choices": [
+   "They act as decomposers, breaking down dead wood and returning nutrients to the soil",
+   "They pollinate the trees from inside the wood",
+   "They eat living tree roots, stopping disease",
+   "They protect trees from ticks"
+  ],
+  "answerIndex": 0,
+  "explanation": "As the grubs chew through decaying hardwood they act as decomposers, breaking dead wood down and returning its nutrients to the soil. Careful: many sources, including Victoria’s own binder page, say the life cycle takes three years. The larval stage is about a year, and the whole egg-to-adult cycle runs roughly one to one and a half years.",
+  "source": "victoria"
+ },
+ {
+  "id": "v084",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "How should you remove a Lone Star Tick, and why does it matter?",
+  "choices": [
+   "Grip it close to the skin with fine tweezers and pull straight out, then wash; ticks can pass on disease",
+   "Burn it with a match so it lets go; ticks are harmless",
+   "Twist it off while covering it in petroleum jelly; ticks only matter in winter",
+   "Crush it with your fingers; ticks can only bite once"
+  ],
+  "answerIndex": 0,
+  "explanation": "Grip it as close to the skin as possible with fine tweezers and pull straight out with steady pressure, then wash the bite. Ticks can pass on disease, and the longer one stays attached the higher the risk.",
+  "source": "victoria"
+ },
+ {
+  "id": "v085",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which list names Georgia's six ecoregions?",
+  "choices": [
+   "Blue Ridge, Ridge and Valley, Piedmont, Southeastern Plains, Southwestern Appalachians, Southern Coastal Plains",
+   "Blue Ridge, Ridge and Valley, Piedmont, Southeastern Plains, Cumberland Plateau, Southern Coastal Plains",
+   "Blue Ridge, Piedmont, Appalachian Valley, Southeastern Plains, Southwestern Appalachians, Southern Coastal Plains",
+   "Blue Ridge, Ridge and Valley, Piedmont, Okefenokee Swamp, Southwestern Appalachians, Southern Coastal Plains"
+  ],
+  "answerIndex": 0,
+  "explanation": "Blue Ridge, Ridge and Valley, Piedmont, Southeastern Plains, Southwestern Appalachians, and Southern Coastal Plains.",
+  "source": "victoria"
+ },
+ {
+  "id": "v086",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion is Atlanta in, and what soil is it known for?",
+  "choices": [
+   "Piedmont; red clay and rolling hills",
+   "Blue Ridge; thin rocky soil",
+   "Southern Coastal Plains; deep sand",
+   "Ridge and Valley; limestone soil"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Piedmont, known for red clay soil and rolling hills.",
+  "source": "victoria"
+ },
+ {
+  "id": "v087",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Brasstown Bald, Georgia’s highest point, is in the:",
+  "choices": [
+   "Piedmont",
+   "Blue Ridge",
+   "Ridge and Valley",
+   "Southern Coastal Plains"
+  ],
+  "answerIndex": 1,
+  "explanation": "Blue Ridge.",
+  "source": "victoria"
+ },
+ {
+  "id": "v088",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "How is Southern Coastal Plains soil different from Piedmont soil?",
+  "choices": [
+   "Coastal Plain soil is sandy and drains fast (pines, burrows); Piedmont soil is heavy red clay that holds water (mixed hardwoods)",
+   "Coastal Plain soil is heavy red clay; Piedmont soil is sandy and drains fast",
+   "The soils are identical; only elevation differs",
+   "Coastal Plain soil is thin and rocky; Piedmont soil is deep sand"
+  ],
+  "answerIndex": 0,
+  "explanation": "Coastal Plain soil is sandy and drains fast, which suits pines and lets a Gopher Tortoise dig burrows. Piedmont soil is heavy red clay that holds water, which suits mixed hardwood forests.",
+  "source": "victoria"
+ },
+ {
+  "id": "v089",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Why is the Gopher Tortoise found only in Georgia's two southern ecoregions?",
+  "choices": [
+   "It needs deep sandy well-drained soil to dig burrows and open sunny ground; Piedmont clay and northern mountains can't provide it",
+   "Only the coast is warm enough for it to survive",
+   "It eats only plants that grow near the coast",
+   "It cannot cross the rivers further north"
+  ],
+  "answerIndex": 0,
+  "explanation": "It needs deep, sandy, well-drained soil to dig long burrows in and open sunny ground to bask and nest. The clay of the Piedmont and the rocky mountains farther north cannot provide that.",
+  "source": "victoria"
+ },
+ {
+  "id": "v090",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Why does the Black Bear live in only a few parts of Georgia while the Raccoon lives everywhere?",
+  "choices": [
+   "A bear needs large unbroken forest, mast crops, dens and few people; a Raccoon needs none of that",
+   "A bear is nocturnal and a Raccoon is active by day",
+   "A bear cannot tolerate heat but a Raccoon can",
+   "A Raccoon eats only things found in cities"
+  ],
+  "answerIndex": 0,
+  "explanation": "A bear needs very large blocks of unbroken forest, heavy mast crops like acorns and hickory nuts, water, den sites, and few people. Georgia has only three such areas: the north Georgia mountains, the Ocmulgee River corridor in central Georgia, and the Okefenokee Swamp. A Raccoon needs none of that, so it thrives even in cities.",
+  "source": "victoria"
+ },
+ {
+  "id": "v091",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "The Ridge and Valley ecoregion is named for its shape. Describe it.",
+  "choices": [
+   "Long narrow parallel ridges separated by wide flat valleys",
+   "A flat sandy plain with salt marshes",
+   "Rolling hills of red clay",
+   "High jagged peaks including Georgia's tallest"
+  ],
+  "answerIndex": 0,
+  "explanation": "Long narrow parallel ridges separated by wide flat valleys, forming a wave-like pattern across northwest Georgia.",
+  "source": "victoria"
+ },
+ {
+  "id": "v092",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Which three organisms from the 2026 list are found in all six ecoregions?",
+  "choices": [
+   "Coyote, Raccoon, Bobcat",
+   "Gopher Tortoise, Raccoon, Bobcat",
+   "Black Bear, Coyote, Opossum",
+   "Cottonmouth, Coyote, Blue Jay"
+  ],
+  "answerIndex": 0,
+  "explanation": "Any three of: Coyote, Raccoon, Bobcat, Opossum, Mole, Grey Fox, American Robin, Blue Jay, Barn Swallow, Red Maple, Blackberry, Monarch Butterfly.",
+  "source": "victoria"
+ },
+ {
+  "id": "v093",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Why can a Coyote live in all six ecoregions when a Black Bear cannot?",
+  "choices": [
+   "A Coyote is a generalist that eats almost anything and tolerates people; a Black Bear is a specialist needing large forest and mast",
+   "A Coyote is much larger than a Black Bear",
+   "A Coyote hibernates through hard winters; a bear does not",
+   "A Black Bear eats only meat, which is rare"
+  ],
+  "answerIndex": 0,
+  "explanation": "A Coyote is a generalist: it eats almost anything, needs little space, and tolerates people and cities. A Black Bear is a specialist needing large undisturbed forest and heavy mast crops.",
+  "source": "victoria"
+ },
+ {
+  "id": "v094",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion has salt marshes and beaches, and which organism would you expect there?",
+  "choices": [
+   "Southern Coastal Plains; Gopher Tortoise",
+   "Blue Ridge; Black Bear",
+   "Piedmont; Red Fox",
+   "Ridge and Valley; Timber Rattlesnake"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Southern Coastal Plains. Bald Eagle, Cottonmouth, Gopher Tortoise, or Loblolly Pine.",
+  "source": "victoria"
+ },
+ {
+  "id": "v095",
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "Which is a correct four-step food chain using only organisms from the 2026 list?",
+  "choices": [
+   "Loblolly Pine seed, Vole, Eastern Kingsnake, Great Horned Owl",
+   "Great Horned Owl, Eastern Kingsnake, Vole, Loblolly Pine seed",
+   "Vole, Loblolly Pine seed, Eastern Kingsnake, Great Horned Owl",
+   "Loblolly Pine seed, Eastern Kingsnake, Vole, Great Horned Owl"
+  ],
+  "answerIndex": 0,
+  "explanation": "Example: Loblolly Pine seed to Vole to Eastern Kingsnake to Great Horned Owl. Another: White Oak acorn to Eastern Chipmunk to Bobcat.",
+  "source": "victoria"
+ },
+ {
+  "id": "v096",
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "Which correctly matches a producer, a consumer and a decomposer?",
+  "choices": [
+   "Producer: White Oak. Consumer: Bobcat. Decomposer: Eastern Hercules Beetle larvae",
+   "Producer: Bobcat. Consumer: White Oak. Decomposer: Eastern Hercules Beetle larvae",
+   "Producer: Eastern Hercules Beetle larvae. Consumer: White Oak. Decomposer: Bobcat",
+   "Producer: White Oak. Consumer: Eastern Hercules Beetle larvae. Decomposer: Bobcat"
+  ],
+  "answerIndex": 0,
+  "explanation": "A producer makes its own food by photosynthesis (White Oak). A consumer eats other organisms (White-tailed Deer, Bobcat). A decomposer breaks down dead material and returns nutrients to the soil (Eastern Hercules Beetle larvae).",
+  "source": "victoria"
+ },
+ {
+  "id": "v097",
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "A homeowner clears every dead tree and brush pile. Which two animals lose habitat, and why?",
+  "choices": [
+   "Barred Owl (loses nest cavities) and Eastern Hercules Beetle (loses the rotting wood its larvae need)",
+   "Beaver and Mole, which eat dead wood",
+   "Monarch and American Bumblebee, which lay eggs in brush piles",
+   "Blue Jay and American Robin, which nest only in dead trees"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barred Owl and Barn Owl lose nest cavities. Eastern Hercules Beetle loses the rotting wood its larvae need. Carpenter Ant loses nest sites. Opossum, Grey Fox, and Eastern Chipmunk lose denning and hiding cover.",
+  "source": "victoria"
+ },
+ {
+  "id": "v098",
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "Which two organisms on the list are keystone species, and what does keystone mean?",
+  "choices": [
+   "Gopher Tortoise and Beaver; a keystone species affects its ecosystem far more than its numbers suggest",
+   "Coyote and Raccoon; a keystone species is the most numerous in its ecosystem",
+   "Black Bear and Bald Eagle; a keystone species is the largest animal in its ecosystem",
+   "Monarch and American Bumblebee; a keystone species is the one that migrates the farthest"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Gopher Tortoise, whose burrows shelter 350+ species, and the Beaver, whose dams build entire wetlands. A keystone species affects its ecosystem far more than its numbers suggest, so removing it changes the whole system.",
+  "source": "victoria"
+ },
+ {
+  "id": "v099",
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "What is an adaptation, with one structural and one behavioral example?",
+  "choices": [
+   "A trait that helps an organism survive and reproduce; structural: Mole's shovel feet, behavioral: Opossum playing dead",
+   "A trait that helps survival; structural: Opossum playing dead, behavioral: Mole's shovel feet",
+   "A skill an individual learns in its lifetime; structural: Barn Owl's face, behavioral: Mole's feet",
+   "Any change a species makes to its habitat; structural: Beaver dam, behavioral: Monarch migration"
+  ],
+  "answerIndex": 0,
+  "explanation": "An adaptation is a trait that helps an organism survive and reproduce in its habitat. Structural: a Mole’s shovel-like front feet, or a Barn Owl’s heart-shaped facial disc. Behavioral: an Opossum playing dead, or a Monarch’s migration.",
+  "source": "victoria"
+ },
+ {
+  "id": "v100",
+  "category": "Putting It Together",
+  "topic": "Seed dispersal & spreading",
+  "question": "Which is a way one organism on the list moves or spreads another?",
+  "choices": [
+   "Blue Jays and Eastern Chipmunks bury acorns, planting oak trees; birds eat berries and drop the seeds; bees and Monarchs carry pollen",
+   "Beavers carry acorns upstream and plant oaks along the banks; Moles plant seeds as they tunnel",
+   "Black Widows carry pollen between flowers; ticks spread seeds by eating them",
+   "Great Horned Owls bury acorns; Barn Owls carry berries to their nests"
+  ],
+  "answerIndex": 0,
+  "explanation": "Blue Jays and Eastern Chipmunks bury acorns and plant oak trees. Birds eat Pokeweed, Muscadine, Red Mulberry, Blackberry, and Eastern Red Cedar fruit and drop the seeds elsewhere. Bumblebees and Monarchs carry pollen between flowers. Lone Star Ticks ride White-tailed Deer to new places.",
+  "source": "victoria"
+ },
+ {
+  "id": "g001",
+  "category": "Plants",
+  "topic": "Invasive & native plants",
+  "question": "Japanese Honeysuckle differs from native Coral Honeysuckle because it:",
+  "choices": [
+   "Is non-native and one of Georgia's worst invasive plants; Coral Honeysuckle is native and hummingbird-pollinated",
+   "Is native and hummingbird-pollinated; Coral Honeysuckle is invasive",
+   "Is a tree; Coral Honeysuckle is a vine",
+   "Loses all its leaves each fall; Coral Honeysuckle is evergreen"
+  ],
+  "answerIndex": 0,
+  "explanation": "Japanese Honeysuckle came from Asia and is the only non-native on the list; the other 18 plants are native. It is also semi-evergreen in Georgia.",
+  "source": "gap"
+ },
+ {
+  "id": "g002",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Poison ivy's \"leaves of three\" are actually:",
+  "choices": [
+   "Three leaflets of ONE compound leaf",
+   "Three separate simple leaves",
+   "One simple leaf with three lobes",
+   "Three needle bundles"
+  ],
+  "answerIndex": 0,
+  "explanation": "Counting poison ivy as simple is the most likely leaf mistake on the exam. The middle leaflet sits on a longer stalk.",
+  "source": "gap"
+ },
+ {
+  "id": "g003",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Blackberry leaves are best described as:",
+  "choices": [
+   "Compound, with 3 to 5 leaflets",
+   "Simple and opposite",
+   "Simple with one large smooth blade",
+   "Needle-like in bundles of 3"
+  ],
+  "answerIndex": 0,
+  "explanation": "Blackberry is one of six compound plants: Black Walnut, Green Ash, Red Hickory, Trumpet Creeper, Blackberry and Eastern Poison Ivy.",
+  "source": "gap"
+ },
+ {
+  "id": "g004",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which pair of plants has leaves that are BOTH compound and opposite?",
+  "choices": [
+   "Green Ash and Trumpet Creeper",
+   "Black Walnut and Red Hickory",
+   "Red Maple and Flowering Dogwood",
+   "Blackberry and Black Walnut"
+  ],
+  "answerIndex": 0,
+  "explanation": "Black Walnut, Red Hickory, Blackberry and Poison Ivy are compound but alternate. Red Maple and Dogwood are opposite but simple.",
+  "source": "gap"
+ },
+ {
+  "id": "g005",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "How many plants on the 2026 list have compound leaves?",
+  "choices": [
+   "Six",
+   "Two",
+   "Nineteen",
+   "Twelve"
+  ],
+  "answerIndex": 0,
+  "explanation": "Black Walnut, Green Ash, Red Hickory, Trumpet Creeper, Blackberry and Eastern Poison Ivy. Everything else on the plant list is simple.",
+  "source": "gap"
+ },
+ {
+  "id": "g006",
+  "category": "Plants",
+  "topic": "Evergreen vs deciduous",
+  "question": "Honeysuckle in Georgia is best described as:",
+  "choices": [
+   "Semi-evergreen, often keeping leaves through winter",
+   "Fully deciduous",
+   "A true evergreen conifer",
+   "Leafless all year"
+  ],
+  "answerIndex": 0,
+  "explanation": "It is not a clean example of a deciduous plant. Only Loblolly Pine and Eastern Red Cedar are true evergreens.",
+  "source": "gap"
+ },
+ {
+  "id": "g007",
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Which parts of American Pokeweed are poisonous if eaten?",
+  "choices": [
+   "Roots, stems, leaves and berries",
+   "Only the roots",
+   "Only the unripe berries",
+   "None; the berries are a safe wild fruit"
+  ],
+  "answerIndex": 0,
+  "explanation": "Pokeweed is one of two plants on the list that are dangerous to humans; the other is Eastern Poison Ivy.",
+  "source": "gap"
+ },
+ {
+  "id": "g008",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "Which owl has ear tufts, yellow eyes and a deep hoot?",
+  "choices": [
+   "Great Horned Owl",
+   "Barn Owl",
+   "Barred Owl",
+   "Eastern Screech Owl"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barn Owl = white heart face, dark eyes, shrieks. Barred Owl = round brown-streaked face, dark eyes, \"who cooks for you all.\" Great Horned = ear tufts, yellow eyes, deep hoots.",
+  "source": "gap"
+ },
+ {
+  "id": "g009",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "Which owl has a round brown-streaked face, dark eyes and calls \"who cooks for you all\"?",
+  "choices": [
+   "Barred Owl",
+   "Great Horned Owl",
+   "Barn Owl",
+   "Bald Eagle"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barred Owl is the only owl on the list with a written call description in the binder.",
+  "source": "gap"
+ },
+ {
+  "id": "g010",
+  "category": "Birds",
+  "topic": "Owls & bird calls",
+  "question": "A Barn Owl's soft fringed wing feathers help it:",
+  "choices": [
+   "Fly silently while hunting",
+   "Fly faster than prey",
+   "Stay warm in winter",
+   "Float on water"
+  ],
+  "answerIndex": 0,
+  "explanation": "Together with the sound-funneling facial disc, silent flight lets it hunt by hearing in the dark.",
+  "source": "gap"
+ },
+ {
+  "id": "g011",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Where does a Barn Owl roost and nest?",
+  "choices": [
+   "In barns, silos, church steeples, hollow trees and nest boxes",
+   "In mud cups under bridges",
+   "On open ground in tall grass",
+   "In burrows dug by Gopher Tortoises"
+  ],
+  "answerIndex": 0,
+  "explanation": "It hunts over open country such as fields, pastures and farmland.",
+  "source": "gap"
+ },
+ {
+  "id": "g012",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "One Barn Owl family can eat over a thousand rodents in a nesting season. This makes it:",
+  "choices": [
+   "A farmer's best friend",
+   "A pest of grain fields",
+   "A threat to songbirds",
+   "A scavenger of carrion"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barn Owls eat almost entirely small rodents, especially voles and mice.",
+  "source": "gap"
+ },
+ {
+  "id": "g013",
+  "category": "Birds",
+  "topic": "Residents & migrants",
+  "question": "The Barn Swallow in Georgia is best described as:",
+  "choices": [
+   "A summer nester, not a year-round resident",
+   "A year-round resident",
+   "A winter visitor only",
+   "A bird that never leaves its nest"
+  ],
+  "answerIndex": 0,
+  "explanation": "It builds a mud cup nest under bridges and barn eaves and catches insects on the wing.",
+  "source": "gap"
+ },
+ {
+  "id": "g014",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "How can you tell a Northern Mockingbird from a Brown Thrasher by song?",
+  "choices": [
+   "A mockingbird repeats each phrase three or more times; a thrasher usually repeats it twice",
+   "A thrasher repeats phrases three or more times; a mockingbird only once",
+   "A mockingbird sings only at night; a thrasher only by day",
+   "They sound identical"
+  ],
+  "answerIndex": 0,
+  "explanation": "Both are year-round residents. The Brown Thrasher is Georgia's state bird.",
+  "source": "gap"
+ },
+ {
+  "id": "g015",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Of the 12 reptiles and amphibians on the list, how many are reptiles?",
+  "choices": [
+   "Eight reptiles and four amphibians",
+   "Four reptiles and eight amphibians",
+   "Six and six",
+   "Ten reptiles and two amphibians"
+  ],
+  "answerIndex": 0,
+  "explanation": "Amphibians: American Toad, Eastern Narrow Mouth Toad, Southern Leopard Frog, Marbled Salamander. The other eight are reptiles.",
+  "source": "gap"
+ },
+ {
+  "id": "g016",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Which feature tells you the Eastern Kingsnake is harmless?",
+  "choices": [
+   "A rounded head and round pupils",
+   "A wide triangular head",
+   "Vertical cat-like pupils",
+   "A heat-sensing pit"
+  ],
+  "answerIndex": 0,
+  "explanation": "Pit vipers have wide triangular heads, vertical pupils and heat-sensing pits.",
+  "source": "gap"
+ },
+ {
+  "id": "g017",
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "A male Green Anole flashes what to display?",
+  "choices": [
+   "A pink throat fan called a dewlap",
+   "A rattle",
+   "Bright blue eyespots",
+   "A forked tongue"
+  ],
+  "answerIndex": 0,
+  "explanation": "Green Anoles can also change from green to brown depending on temperature, stress and surroundings.",
+  "source": "gap"
+ },
+ {
+  "id": "g018",
+  "category": "Reptiles & Amphibians",
+  "topic": "Gopher Tortoise & keystones",
+  "question": "Which animal on the 2026 list is state-protected in Georgia?",
+  "choices": [
+   "Gopher Tortoise",
+   "Green Anole",
+   "American Toad",
+   "Eastern Kingsnake"
+  ],
+  "answerIndex": 0,
+  "explanation": "It is also Georgia's state reptile and a keystone species.",
+  "source": "gap"
+ },
+ {
+  "id": "g019",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "Who chewed the roots in a garden: a Mole or a Vole?",
+  "choices": [
+   "A Vole, which eats roots, bulbs and bark",
+   "A Mole, which eats roots and bark",
+   "Both equally",
+   "Neither; Armadillos always do"
+  ],
+  "answerIndex": 0,
+  "explanation": "A Mole is an insectivore that eats earthworms, grubs and insects.",
+  "source": "gap"
+ },
+ {
+  "id": "g020",
+  "category": "Mammals",
+  "topic": "Mammal ID & adaptations",
+  "question": "A skull with a pair of large chisel-shaped front teeth that never stop growing belongs to a:",
+  "choices": [
+   "Rodent, such as a Beaver, Vole or Eastern Chipmunk",
+   "Canine, such as a Coyote",
+   "Marsupial, such as an Opossum",
+   "Insectivore, such as a Mole"
+  ],
+  "answerIndex": 0,
+  "explanation": "The 2026 rules say the exam can include physical samples such as skulls and pelts.",
+  "source": "gap"
+ },
+ {
+  "id": "g021",
+  "category": "Mammals",
+  "topic": "Habitat needs & ecology",
+  "question": "Playing dead is an example of what kind of adaptation, and for which mammal?",
+  "choices": [
+   "A behavioral adaptation of the Opossum",
+   "A structural adaptation of the Opossum",
+   "A behavioral adaptation of the Beaver",
+   "A structural adaptation of the Armadillo"
+  ],
+  "answerIndex": 0,
+  "explanation": "A structural adaptation is a body feature, like a Mole's shovel feet.",
+  "source": "gap"
+ },
+ {
+  "id": "g022",
+  "category": "Mammals",
+  "topic": "Habitat needs & ecology",
+  "question": "For habitat to work for an animal, food, water, cover and space must be:",
+  "choices": [
+   "Close enough together that the animal can reach all four",
+   "As far apart as possible",
+   "Present only in winter",
+   "Provided by humans"
+  ],
+  "answerIndex": 0,
+  "explanation": "The WHEP manual listed as the mammal resource is built around these four needs.",
+  "source": "gap"
+ },
+ {
+  "id": "g023",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "How many legs does a Black Widow have?",
+  "choices": [
+   "Eight",
+   "Six",
+   "Four",
+   "Ten"
+  ],
+  "answerIndex": 0,
+  "explanation": "Arachnids have 8 legs and no antennae. A spider has 2 body parts.",
+  "source": "gap"
+ },
+ {
+  "id": "g024",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "How many body parts does a spider have?",
+  "choices": [
+   "Two",
+   "Three",
+   "One",
+   "Four"
+  ],
+  "answerIndex": 0,
+  "explanation": "A tick's two sections are fused so tightly it looks like one. The reliable test is to count the legs.",
+  "source": "gap"
+ },
+ {
+  "id": "g025",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "The Lone Star Tick is classified as a(n):",
+  "choices": [
+   "Arachnid",
+   "Insect",
+   "Crustacean",
+   "Beetle"
+  ],
+  "answerIndex": 0,
+  "explanation": "It has 8 legs and no antennae or wings.",
+  "source": "gap"
+ },
+ {
+  "id": "g026",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "Which life stage is a Monarch caterpillar?",
+  "choices": [
+   "Larva",
+   "Egg",
+   "Pupa",
+   "Adult"
+  ],
+  "answerIndex": 0,
+  "explanation": "Complete metamorphosis: egg, larva, pupa, adult.",
+  "source": "gap"
+ },
+ {
+  "id": "g027",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "In complete metamorphosis, which stage comes between larva and adult?",
+  "choices": [
+   "Pupa",
+   "Egg",
+   "Nymph",
+   "Molt"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Puss Caterpillar's pupa becomes the adult Southern Flannel Moth.",
+  "source": "gap"
+ },
+ {
+  "id": "g028",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "About how long does the whole Eastern Hercules Beetle life cycle take, egg to adult?",
+  "choices": [
+   "Roughly one to one and a half years",
+   "About three years",
+   "About ten years",
+   "About one month"
+  ],
+  "answerIndex": 0,
+  "explanation": "The larval stage is about a year. The three-year figure repeated on many sites does not match LSU AgCenter or university sources.",
+  "source": "gap"
+ },
+ {
+  "id": "g029",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Why do soil, elevation and climate matter for the six ecoregions?",
+  "choices": [
+   "They decide which species can live where",
+   "They decide which county lines are drawn",
+   "They make every region have the same species",
+   "They only affect human farming"
+  ],
+  "answerIndex": 0,
+  "explanation": "Soil is usually the answer to why a species lives where it does.",
+  "source": "gap"
+ },
+ {
+  "id": "g030",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion is made of long parallel ridges and limestone valleys in northwest Georgia?",
+  "choices": [
+   "Ridge and Valley",
+   "Blue Ridge",
+   "Piedmont",
+   "Southern Coastal Plains"
+  ],
+  "answerIndex": 0,
+  "explanation": "It forms a wave-like pattern of narrow ridges and wide flat valleys.",
+  "source": "gap"
+ },
+ {
+  "id": "g031",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Which is NOT one of Georgia's three Black Bear areas?",
+  "choices": [
+   "The Atlanta metro area",
+   "The north Georgia mountains",
+   "The Ocmulgee River corridor in central Georgia",
+   "The Okefenokee Swamp"
+  ],
+  "answerIndex": 0,
+  "explanation": "A bear needs large blocks of unbroken forest, heavy mast crops, water, dens and few people.",
+  "source": "gap"
+ },
+ {
+  "id": "g032",
+  "category": "Putting It Together",
+  "topic": "Seed dispersal & spreading",
+  "question": "How do Blue Jays and Eastern Chipmunks help oak trees spread?",
+  "choices": [
+   "They bury acorns and forget some, which grow into new oaks",
+   "They carry pollen between oak flowers",
+   "They eat oak leaves and drop them",
+   "They break the bark so seeds spill out"
+  ],
+  "answerIndex": 0,
+  "explanation": "Birds also spread Pokeweed, Muscadine, Red Mulberry, Blackberry and Eastern Red Cedar seeds in droppings.",
+  "source": "gap"
+ },
+ {
+  "id": "g033",
+  "category": "Putting It Together",
+  "topic": "Seed dispersal & spreading",
+  "question": "How does a Lone Star Tick get to new places?",
+  "choices": [
+   "It rides on a host such as a White-tailed Deer",
+   "It flies on silky threads",
+   "It floats on wind like a samara",
+   "It is carried by Monarch Butterflies"
+  ],
+  "answerIndex": 0,
+  "explanation": "It is one of the ways organisms on the list spread each other.",
+  "source": "gap"
+ }
+]
