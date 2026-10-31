@@ -65,3 +65,8 @@ details { margin: 6px 0; } summary { cursor: pointer; }
 .select { width: 100%; font: inherit; padding: 11px 12px; border-radius: 10px; border: 1px solid var(--line);
   background: var(--card); color: var(--text); min-height: 46px; }
 .meta { flex-wrap: wrap; gap: 4px 12px; }
+.segs { display: flex; gap: 3px; margin-top: 8px; }
+.seg { flex: 1; height: 12px; min-width: 3px; border-radius: 4px; background: var(--bar); }
+.seg.good { background: var(--good); } .seg.bad { background: var(--bad); }
+.link { background: none; border: 0; color: var(--muted); text-decoration: underline; font: inherit; cursor: pointer; padding: 10px; }
+input.select { width: auto; flex: 1 1 120px; }

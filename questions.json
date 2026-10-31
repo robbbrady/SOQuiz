@@ -1993,5 +1993,1669 @@
   "answerIndex": 0,
   "explanation": "It is one of the ways organisms on the list spread each other.",
   "source": "gap"
+ },
+ {
+  "id": "r001",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Where does a Carolina Chickadee build its nest?",
+  "choices": [
+   "In a tree cavity or nest box, lined with hair and fibers",
+   "In a deep mud cup plastered under a bridge or barn rafter",
+   "On open ground in a grassy field, hidden in the stems",
+   "In a huge pile of sticks and branches high in a tall tree"
+  ],
+  "answerIndex": 0,
+  "explanation": "The chickadee uses a hole in a tree (it can dig one in soft wood or take an empty one) and lines it softly with hair or plant fibers.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/lifehistory"
+ },
+ {
+  "id": "r002",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A Tufted Titmouse cannot dig its own nest hole. Where does it nest?",
+  "choices": [
+   "In a woodpecker hole, a natural cavity or a nest box",
+   "In a tunnel it digs into a sandy creek bank by itself",
+   "In a mud cup plastered onto a barn beam or porch light",
+   "On the ground in a shallow scrape under a thick shrub"
+  ],
+  "answerIndex": 0,
+  "explanation": "Titmice need a ready-made hole, such as an old woodpecker hole, a natural cavity, or a nest box.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/lifehistory"
+ },
+ {
+  "id": "r003",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A Tufted Titmouse often lines its nest with soft hair or fur. Why is this helpful?",
+  "choices": [
+   "It cushions and keeps the eggs and chicks warm",
+   "It makes the nest heavy so wind cannot blow it away",
+   "It hides the eggs from owls",
+   "It keeps insects out of the cavity"
+  ],
+  "answerIndex": 0,
+  "explanation": "Soft hair and fur make a warm, cozy bed for eggs and nestlings inside the cavity.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/lifehistory"
+ },
+ {
+  "id": "r004",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A Great Horned Owl is looking for a nest. What does it usually do?",
+  "choices": [
+   "Takes over an old hawk or crow stick nest",
+   "Builds a tight mud cup under barn eaves or a bridge",
+   "Digs a long tunnel into a muddy bank near a creek",
+   "Weaves a hanging basket of grass from a thin branch"
+  ],
+  "answerIndex": 0,
+  "explanation": "Great Horned Owls do not build nests. They move into old nests made by other animals, like hawks, crows, or herons.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Great_Horned_Owl/lifehistory"
+ },
+ {
+  "id": "r005",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Barn Owls make very little nest. Where do they usually lay their eggs?",
+  "choices": [
+   "In a hollow tree, barn loft or nest box",
+   "In a mud cup stuck to a cliff or wall",
+   "In a big stick nest at the top of a tall pine",
+   "In a grass cup hidden in the middle of a lawn"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barn Owls use hollow trees, barns, and nest boxes. They do not build much of a nest.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Barn_Owl/lifehistory"
+ },
+ {
+  "id": "r006",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "What kind of nest does a Mourning Dove build?",
+  "choices": [
+   "A thin, loose platform of twigs and grass",
+   "A deep mud cup",
+   "A tight cup woven from hair and moss in a hole",
+   "A huge nest of sticks as wide as a bed"
+  ],
+  "answerIndex": 0,
+  "explanation": "Mourning Dove nests are flimsy twig platforms with little lining. It is a simple nest for two eggs.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/lifehistory"
+ },
+ {
+  "id": "r007",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Mourning Dove parents feed their chicks \"crop milk.\" What is that?",
+  "choices": [
+   "A nutritious liquid made in the parent's throat",
+   "Milk the parents steal from a cow or goat at a farm",
+   "Worms and insects chewed up and spit out as paste",
+   "Fresh water carried in the beak from a nearby pond"
+  ],
+  "answerIndex": 0,
+  "explanation": "Both dove parents make crop milk from cells lining the crop, a pouch in the throat, to feed their chicks.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/lifehistory"
+ },
+ {
+  "id": "r008",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Who builds the mud cup nest of a Barn Swallow?",
+  "choices": [
+   "Both the male and the female",
+   "Only the male builds it alone",
+   "Only the female builds it alone",
+   "Only the chicks, once they hatch"
+  ],
+  "answerIndex": 0,
+  "explanation": "Barn Swallow pairs work together, carrying mud to shape the cup on a beam, ledge, or bridge.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Barn_Swallow/lifehistory"
+ },
+ {
+  "id": "r009",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "What color are Eastern Bluebird eggs?",
+  "choices": [
+   "Pale blue",
+   "Speckled brown",
+   "Pure white",
+   "Bright green"
+  ],
+  "answerIndex": 0,
+  "explanation": "Bluebirds usually lay pale blue eggs inside a cavity or nest box.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/news/backyard-bird-nest-and-egg-id-with-nestwatch/"
+ },
+ {
+  "id": "r010",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "An American Robin's nest is a cup of grass and twigs reinforced with what?",
+  "choices": [
+   "A middle layer of mud",
+   "Spider silk and thin string",
+   "Feathers glued with sap",
+   "Snake skin and shed fur"
+  ],
+  "answerIndex": 0,
+  "explanation": "The female robin shapes a cup and strengthens it with mud, then lines it with soft dry grass. Her eggs are bright blue.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/American_Robin/lifehistory"
+ },
+ {
+  "id": "r011",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Where does a Brown Thrasher usually place its bulky nest of twigs?",
+  "choices": [
+   "Low in a thorny shrub or small tree, or on the ground",
+   "High at the very top of the tallest pine tree in the woods",
+   "Deep inside a hollow tree trunk, lined with soft moss",
+   "Hanging from the underside of a high bridge or rafter"
+  ],
+  "answerIndex": 0,
+  "explanation": "Thrashers hide their nests low in dense, thorny shrubs, which helps keep predators away.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Brown_Thrasher/lifehistory"
+ },
+ {
+  "id": "r012",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Bald Eagles often return to the same nest year after year. What happens to it?",
+  "choices": [
+   "Each year they add more sticks, so it grows enormous",
+   "It stays exactly the same size, since they never add to it",
+   "They tear it all down and leave the tree empty each year",
+   "They plaster it with mud, so it becomes a heavy mud cup"
+  ],
+  "answerIndex": 0,
+  "explanation": "Eagle nests can be 5 to 6 feet across and keep getting bigger as the pair adds material each year.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Bald_Eagle/lifehistory"
+ },
+ {
+  "id": "r013",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "A Red-shouldered Hawk is a good clue that a forest has which habitat feature?",
+  "choices": [
+   "Tall woods near water",
+   "Open desert",
+   "Mowed lawns with no trees",
+   "Rocky mountaintops above the trees"
+  ],
+  "answerIndex": 0,
+  "explanation": "These hawks live in bottomland and swampy forests and hunt frogs, snakes, and small mammals near water.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Red-shouldered_Hawk/lifehistory"
+ },
+ {
+  "id": "r014",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which food does a Red-shouldered Hawk commonly eat?",
+  "choices": [
+   "Frogs, snakes, and small mammals",
+   "Seeds taken from backyard bird feeders",
+   "Nectar from big garden flowers",
+   "Only earthworms from the lawn"
+  ],
+  "answerIndex": 0,
+  "explanation": "It is a bird of prey that drops onto frogs, snakes, lizards, and small mammals on the forest floor.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Red-shouldered_Hawk/lifehistory"
+ },
+ {
+  "id": "r015",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "How do Blue Jays help oak forests grow?",
+  "choices": [
+   "They bury acorns and forget some, which sprout",
+   "They pull weeds and tall vines away from young oak trees",
+   "They scare away every insect that eats the acorns",
+   "They drop sticky tree sap onto the soil each fall"
+  ],
+  "answerIndex": 0,
+  "explanation": "Jays carry and cache thousands of acorns each fall. The ones they never retrieve can grow into trees.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Blue_Jay/lifehistory"
+ },
+ {
+  "id": "r016",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "How does a Northern Mockingbird's diet change through the year?",
+  "choices": [
+   "Mostly insects in summer, fruit in fall and winter",
+   "Only seeds and nuts all year long, in every season",
+   "Only fish and frogs in summer, only worms in winter",
+   "It stops eating in winter and lives off stored fat"
+  ],
+  "answerIndex": 0,
+  "explanation": "Mockingbirds are omnivores. Insects are the main food in summer, and berries and fruit take over in fall and winter.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/lifehistory"
+ },
+ {
+  "id": "r017",
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which is true about Northern Mockingbird singing?",
+  "choices": [
+   "It often sings at night, mostly unmated males",
+   "It never sings after sunset, and sleeps all night",
+   "It only sings in winter, when the leaves are gone",
+   "It sings one short song that it repeats all day"
+  ],
+  "answerIndex": 0,
+  "explanation": "Mockingbirds sing through the day and often into the night, which surprises many people.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/lifehistory"
+ },
+ {
+  "id": "r018",
+  "category": "Birds",
+  "topic": "Bird feeders & diet",
+  "question": "An Eastern Bluebird spots something on the grass below its perch and drops down. What is it most likely to catch?",
+  "choices": [
+   "A caterpillar or grasshopper",
+   "A small minnow from a nearby creek",
+   "A field mouse hiding in the grass",
+   "A sunflower seed from a feeder"
+  ],
+  "answerIndex": 0,
+  "explanation": "Bluebirds mostly eat insects they spot on the ground. In fall and winter they eat berries too.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Eastern_Bluebird/lifehistory"
+ },
+ {
+  "id": "r019",
+  "category": "Birds",
+  "topic": "Bird feeders & diet",
+  "question": "In winter, about half of a Carolina Chickadee's diet comes from plants. What is it eating the rest of the year?",
+  "choices": [
+   "Mostly insects and spiders",
+   "Mostly small fish from ponds",
+   "Mostly acorns and big nuts",
+   "Mostly flower nectar and sap"
+  ],
+  "answerIndex": 0,
+  "explanation": "In spring and summer chickadees eat mainly insects and spiders to feed their fast-growing chicks.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/lifehistory"
+ },
+ {
+  "id": "r020",
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A House Wren will fill a nest box, an old can, or even a boot with what?",
+  "choices": [
+   "Small sticks and twigs",
+   "Mud mixed with grass",
+   "Only soft pine needles",
+   "Only wet, rotting leaves"
+  ],
+  "answerIndex": 0,
+  "explanation": "House Wrens stuff cavities with twigs and then add a soft lining.",
+  "source": "research",
+  "url": "https://www.allaboutbirds.org/guide/House_Wren/lifehistory"
+ },
+ {
+  "id": "r021",
+  "category": "Mammals",
+  "topic": "Mammal tracks & scat",
+  "question": "You find a cat-like paw print with four toes and NO claw marks. Which animal is most likely?",
+  "choices": [
+   "Bobcat",
+   "Coyote",
+   "Red Fox",
+   "Black Bear"
+  ],
+  "answerIndex": 0,
+  "explanation": "Cats walk with their claws pulled in, so bobcat prints usually show no claw marks. Coyote and fox prints do.",
+  "source": "research",
+  "url": "https://georgiawildlife.com/sites/default/files/wrd/pdf/fact-sheets/2007_bobcat.pdf"
+ },
+ {
+  "id": "r022",
+  "category": "Mammals",
+  "topic": "Mammal tracks & scat",
+  "question": "Coyote tracks usually show claw marks. Why?",
+  "choices": [
+   "Dogs and coyotes cannot pull their claws in",
+   "They walk only on their toes, so claws touch the soil",
+   "Their claws are always covered in sticky mud",
+   "They dig into the ground with each step they take"
+  ],
+  "answerIndex": 0,
+  "explanation": "Members of the dog family have non-retractable claws that stay out and leave marks in the print.",
+  "source": "research",
+  "url": "https://dnr.maryland.gov/wildlife/Documents/Key-Common-Mammal-Tracks.pdf"
+ },
+ {
+  "id": "r023",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Why do beavers have chisel-shaped orange front teeth?",
+  "choices": [
+   "They gnaw wood; the teeth keep growing and contain iron",
+   "They use them to crack open clam shells and dig up river mussels",
+   "They dig long tunnels through hard rock under the pond",
+   "The orange color comes from eating carrots and pumpkins"
+  ],
+  "answerIndex": 0,
+  "explanation": "Beaver incisors never stop growing, and iron makes the enamel hard and orange, so they stay sharp from gnawing.",
+  "source": "research",
+  "url": "https://nationalzoo.si.edu/animals/news/8-facts-celebrate-international-beaver-day"
+ },
+ {
+  "id": "r024",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Which describes the teeth of a White-tailed Deer?",
+  "choices": [
+   "No upper front teeth; it pulls plants against its gum",
+   "Long sharp fangs in front for tearing meat and bone",
+   "Constantly growing chisel teeth in the front of the jaw",
+   "Tiny teeth only in the lower jaw, with none in the upper"
+  ],
+  "answerIndex": 0,
+  "explanation": "Deer are plant eaters. They bite browse with lower front teeth against a hard upper pad.",
+  "source": "research",
+  "url": "https://www.mass.gov/doc/living-with-deer-fact-sheet/download"
+ },
+ {
+  "id": "r025",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "A White-tailed Deer has four stomach chambers. What is this for?",
+  "choices": [
+   "Digesting tough plant food",
+   "Storing water for dry weather",
+   "Digesting meat and bones",
+   "Making milk for fawns"
+  ],
+  "answerIndex": 0,
+  "explanation": "Deer are plant eaters with a four-chambered stomach that breaks down leaves, twigs, and acorns.",
+  "source": "research",
+  "url": "https://oepos.ca.uky.edu/content/white-tailed-deer"
+ },
+ {
+  "id": "r026",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "What happens to a buck White-tailed Deer's antlers each year?",
+  "choices": [
+   "He sheds them each winter and regrows a pair by summer",
+   "They stay on his head for his whole life and keep growing",
+   "They grow only on does and fall off after fawns arrive",
+   "They fall off in summer and do not grow back until fall"
+  ],
+  "answerIndex": 0,
+  "explanation": "Antlers are shed each winter. Bucks grow new ones from April through August.",
+  "source": "research",
+  "url": "https://oepos.ca.uky.edu/content/white-tailed-deer"
+ },
+ {
+  "id": "r027",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "How is an Armadillo litter unusual?",
+  "choices": [
+   "Mothers usually have four babies from one egg",
+   "Mothers lay a clutch of leathery eggs in a burrow",
+   "Babies are born already wearing a fully hard shell",
+   "Mothers give birth to about 20 babies at once"
+  ],
+  "answerIndex": 0,
+  "explanation": "Nine-banded Armadillos nearly always have identical quadruplets that came from one fertilized egg.",
+  "source": "research",
+  "url": "https://biokids.umich.edu/critters/Dasypus_novemcinctus"
+ },
+ {
+  "id": "r028",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "When are Black Bear cubs born?",
+  "choices": [
+   "In winter, while the mother is in her den",
+   "In summer, while the mother feeds at a berry patch",
+   "In fall, while the mother climbs a mountaintop",
+   "Cubs hatch from eggs in a nest each spring"
+  ],
+  "answerIndex": 0,
+  "explanation": "Mother bears give birth to tiny cubs in January while denning. They come out in spring.",
+  "source": "research",
+  "url": "https://www.mndnr.gov/mammals/blackbear.html"
+ },
+ {
+  "id": "r029",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Opossums help yards by eating many of which pests?",
+  "choices": [
+   "Ticks",
+   "Deer",
+   "Snakes only",
+   "Acorns"
+  ],
+  "answerIndex": 0,
+  "explanation": "An opossum can eat thousands of ticks in a season, which can carry diseases.",
+  "source": "research",
+  "url": "https://grapescout.ca.uky.edu/raccoonsandopossums"
+ },
+ {
+  "id": "r030",
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "When young Opossums get too big for the pouch, how do they travel?",
+  "choices": [
+   "Riding on the mother's back",
+   "Walking far ahead alone",
+   "Hanging from the father's tail",
+   "Staying in the den until adult size"
+  ],
+  "answerIndex": 0,
+  "explanation": "After about two months in the pouch, the babies climb onto mom's back.",
+  "source": "research",
+  "url": "https://dnr.wisconsin.gov/topic/WildlifeHabitat/orphan/Opossum"
+ },
+ {
+  "id": "r031",
+  "category": "Mammals",
+  "topic": "Mammal tracks & scat",
+  "question": "Which sign tells you a Mole, not a Vole, is in your yard?",
+  "choices": [
+   "Cone-shaped piles of soil with hidden holes",
+   "Golf-ball-sized open holes in the grass and mulch",
+   "Narrow grass trails with no soil piled up beside them",
+   "Gnawed bark at the base of young shrubs and trees"
+  ],
+  "answerIndex": 0,
+  "explanation": "Moles push up mounds of dirt as they dig, while voles use open holes and surface runways.",
+  "source": "research",
+  "url": "https://hgic.clemson.edu/factsheet/how-to-tell-the-difference-between-moles-voles/"
+ },
+ {
+  "id": "r032",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "An Eastern Chipmunk is an omnivore. What does that mean?",
+  "choices": [
+   "It eats both plants and animals",
+   "It eats only seeds and nuts it finds",
+   "It eats only meat and bones of animals",
+   "It eats only insects and worms"
+  ],
+  "answerIndex": 0,
+  "explanation": "Chipmunks eat seeds and nuts but also insects. They spread seeds, which helps new plants grow.",
+  "source": "research",
+  "url": "https://oepos.ca.uky.edu/content/eastern-chipmunk"
+ },
+ {
+  "id": "r033",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Georgia DNR says coyotes are omnivores. What does that mean for their diet?",
+  "choices": [
+   "They eat small mammals, carrion and plants as available",
+   "They eat only deer, hunting in packs of a dozen or more",
+   "They eat only fruit and nuts that have fallen from the trees",
+   "They eat only insects and grubs dug out of rotten logs"
+  ],
+  "answerIndex": 0,
+  "explanation": "Coyotes are flexible eaters. Their diet shifts with whatever food is most available.",
+  "source": "research",
+  "url": "https://georgiawildlife.com/sites/default/files/wrd/pdf/uwp/UWP%20Coyote%20Fact%20Sheet.pdf"
+ },
+ {
+  "id": "r034",
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Which meal might a Raccoon eat in one night?",
+  "choices": [
+   "Berries, a frog, and a crayfish",
+   "Only grass and clover from lawns",
+   "Only tree bark and pine needles",
+   "Only fish from the ocean"
+  ],
+  "answerIndex": 0,
+  "explanation": "Raccoons are omnivores. They eat fruit and berries and hunt rodents, frogs, and crayfish.",
+  "source": "research",
+  "url": "https://grapescout.ca.uky.edu/raccoonsandopossums"
+ },
+ {
+  "id": "r035",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "What does the pattern on a Copperhead's back look like?",
+  "choices": [
+   "Dark hourglass-shaped crossbands, narrow on top and wide on the sides",
+   "A solid black back with a bright red stripe down the middle of the body",
+   "Bright red, yellow and black rings circling the whole body from head to tail",
+   "White chain-like lines running along a shiny black body from head to tail"
+  ],
+  "answerIndex": 0,
+  "explanation": "Copperheads have light brown bodies with dark hourglass-shaped bands. The chain-like lines belong to the harmless Eastern Kingsnake.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "id": "r036",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Baby Copperheads have a bright yellow tail tip that they wiggle like a worm. What is this trick for?",
+  "choices": [
+   "Luring frogs and lizards close enough to strike",
+   "Warning hungry birds that the snake is poisonous to eat",
+   "Making a rattling sound to scare away large enemies",
+   "Attracting a mate"
+  ],
+  "answerIndex": 0,
+  "explanation": "Young Copperheads eat mostly frogs and lizards. The wiggling tail tip fools prey into coming close.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "id": "r037",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How is the way a Copperhead starts its young different from the way an Eastern Kingsnake does?",
+  "choices": [
+   "The Copperhead gives birth to live young; the Eastern Kingsnake lays eggs",
+   "The Copperhead lays eggs in water; the Eastern Kingsnake lays eggs in trees",
+   "Both give birth to live young",
+   "The Copperhead lays soft jelly eggs; the Eastern Kingsnake lays hard bird-like eggs"
+  ],
+  "answerIndex": 0,
+  "explanation": "Copperheads give birth to live baby snakes in late summer. Kingsnakes lay eggs in rotting logs or burrows in early summer.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "id": "r038",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "What is a Timber Rattlesnake's rattle made of?",
+  "choices": [
+   "Keratin, the same material as your fingernails and hair",
+   "Bone, joined to the end of its spine like the rest of its skeleton",
+   "Hard shell material, like the shell on a turtle's back",
+   "Dried mud and clay from the snake's burrow, glued with spit"
+  ],
+  "answerIndex": 0,
+  "explanation": "A rattle is made of loose rings of keratin at the end of the tail. Newborn rattlesnakes have just one small 'button.'",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "id": "r039",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How does a Timber Rattlesnake usually catch a squirrel or mouse?",
+  "choices": [
+   "It waits hidden, strikes, then follows the prey's scent trail",
+   "It chases the prey for miles across open ground in daylight",
+   "It wraps around the prey and squeezes until it stops breathing",
+   "It swims underwater and grabs the prey from below the surface"
+  ],
+  "answerIndex": 0,
+  "explanation": "Timber Rattlesnakes are ambush hunters. They bite, let go so they are not hurt, and track the prey by scent until it dies.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "id": "r040",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Which animal on the 2026 list is most likely to eat a Timber Rattlesnake?",
+  "choices": [
+   "Eastern Kingsnake",
+   "Gopher Tortoise",
+   "Southern Leopard Frog",
+   "Eastern Bluebird"
+  ],
+  "answerIndex": 0,
+  "explanation": "Kingsnakes eat other snakes, including rattlesnakes. Bobcats, coyotes and hawks also eat Timber Rattlesnakes.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "id": "r041",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "A Cottonmouth is cornered and does not flee. What is it most likely to do?",
+  "choices": [
+   "Stand its ground and gape to show the white inside its mouth",
+   "Dive straight underwater and swim away as fast as it possibly can",
+   "Climb high into a nearby tree and hide in the leaves",
+   "Drop its tail like a lizard and run away into the grass"
+  ],
+  "answerIndex": 0,
+  "explanation": "Cottonmouths often hold still and gape. The name comes from the white lining of the mouth.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/cottonmouth-water-moccasin/"
+ },
+ {
+  "id": "r042",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "You see a snake basking on a branch several feet above a swamp. Why is it more likely a harmless watersnake than a Cottonmouth?",
+  "choices": [
+   "Cottonmouths rarely climb, but watersnakes bask on branches",
+   "Cottonmouths cannot swim, so they stay far away from any water",
+   "Watersnakes are the only snakes that can see in daylight",
+   "Cottonmouths live only in dry deserts, far from swamps"
+  ],
+  "answerIndex": 0,
+  "explanation": "Cottonmouths usually stay on the ground or low near the water. Watersnakes also flee underwater faster when you come near.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/cottonmouth-water-moccasin/"
+ },
+ {
+  "id": "r043",
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How does an Eastern Kingsnake kill the rodents and lizards it eats?",
+  "choices": [
+   "It squeezes them (constriction)",
+   "It injects strong venom into them",
+   "It drowns them in a nearby pond",
+   "It stings them with the tip of its tail"
+  ],
+  "answerIndex": 0,
+  "explanation": "Kingsnakes are non-venomous constrictors. They coil around prey and squeeze it.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/eastern-kingsnake/"
+ },
+ {
+  "id": "r044",
+  "category": "Reptiles & Amphibians",
+  "topic": "Gopher Tortoise & keystones",
+  "question": "What does a Gopher Tortoise mostly eat?",
+  "choices": [
+   "Grasses and other low-growing plants",
+   "Fish and frogs",
+   "Dead animals it finds on the ground",
+   "Acorns and pine cones from tall trees"
+  ],
+  "answerIndex": 0,
+  "explanation": "Gopher Tortoises are plant-eaters (herbivores). They graze on grasses and low plants in sunny, open woods.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/turtles/gopher-tortoise"
+ },
+ {
+  "id": "r045",
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "Young Southeastern Five-Lined Skinks have a bright blue tail. What is the blue tail believed to do?",
+  "choices": [
+   "Draw a predator to the tail instead of the body",
+   "Help the skink swim quickly across ponds and creeks",
+   "Warn other animals that the skink is very venomous",
+   "Attract bugs close so the skink can eat them"
+  ],
+  "answerIndex": 0,
+  "explanation": "A predator that grabs the bright tail gets only a wriggling tail while the skink escapes. The adult skink's tail color fades.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/lizards/southeastern-five-lined-skink/"
+ },
+ {
+  "id": "r046",
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "A Common Snapping Turtle is very calm in water but acts differently on land. What does it do if it is cornered on land?",
+  "choices": [
+   "Strikes aggressively with its jaws",
+   "Hides its whole body inside its shell",
+   "Plays dead until the danger passes",
+   "Quickly digs a burrow to hide in"
+  ],
+  "answerIndex": 0,
+  "explanation": "Snapping turtles are usually docile in water but will strike when cornered on land. Never pick one up.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/turtles/common-snapping-turtle/"
+ },
+ {
+  "id": "r047",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "An American Toad has a swollen lump behind each eye. What is it for?",
+  "choices": [
+   "It makes a bad-tasting poison to protect the toad",
+   "It lets the toad hear sounds clearly while underwater",
+   "It stores extra water that the toad drinks on dry days",
+   "It holds extra air that the toad uses for its loud call"
+  ],
+  "answerIndex": 0,
+  "explanation": "These parotid glands release toxins that make predators spit the toad out. Wash your hands after touching a toad.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/frogs/american-toad/"
+ },
+ {
+  "id": "r048",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "What does the call of the Eastern Narrow Mouth Toad sound like?",
+  "choices": [
+   "A long, nasal 'waaaah' like a bleating sheep",
+   "A deep 'jug-o-rum' that echoes over the pond",
+   "A long high trill like a cricket at night",
+   "A chuckling croak like a person laughing out loud"
+  ],
+  "answerIndex": 0,
+  "explanation": "Males call from the water with just their snouts out. The call is long, nasal and high-pitched.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/frogs-and-toads/eastern-narrowmouth-toad"
+ },
+ {
+  "id": "r049",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Which field mark helps you identify a Southern Leopard Frog?",
+  "choices": [
+   "Large, round dark spots on its back and a pale stripe on the jaw",
+   "Bright orange thighs, with square black spots on a gray, smooth back",
+   "A very bumpy brown back with a swollen gland behind each eye",
+   "Smooth black skin with white crossbands from nose to tail"
+  ],
+  "answerIndex": 0,
+  "explanation": "Its call is a chuckling croak. It often wanders far from water, especially on rainy nights.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/frogs/southern-leopard-frog/"
+ },
+ {
+  "id": "r050",
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Where does an adult Marbled Salamander spend most of its life?",
+  "choices": [
+   "Underground or under logs, coming out on rainy nights",
+   "Floating in the open water of ponds and lakes all year long",
+   "High up in the branches of tall trees all year",
+   "Lying in the sun on warm rocks in the daytime"
+  ],
+  "answerIndex": 0,
+  "explanation": "Marbled Salamanders are black with white or silvery bands. They live hidden on land and travel to wet places on rainy fall nights to breed.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/salamanders/marbled-salamander/"
+ },
+ {
+  "id": "r051",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "Where do most eastern Monarch butterflies spend the winter?",
+  "choices": [
+   "In oyamel fir forests in the mountains of Mexico",
+   "In deep holes under swamps in southern Georgia",
+   "In hollow trees in the forests of Canada",
+   "Buried in the sand on the warm beaches of Florida"
+  ],
+  "answerIndex": 0,
+  "explanation": "Eastern Monarchs may fly more than 2,000 miles to Mexico. Cold winters in the north would kill them.",
+  "source": "research",
+  "url": "https://www.fws.gov/species/monarch-butterfly-danaus-plexippus"
+ },
+ {
+  "id": "r052",
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "The last Monarch generation of the year is different from summer Monarchs. How?",
+  "choices": [
+   "It lives for months and flies south, unlike summer ones",
+   "It cannot fly, so it stays in one yard all winter long",
+   "It lives only a few days, much shorter than summer Monarchs",
+   "It is a different kind of insect, such as a moth"
+  ],
+  "answerIndex": 0,
+  "explanation": "The fall generation delays mating and lives about 8 months. Summer Monarchs live only 2 to 4 weeks.",
+  "source": "research",
+  "url": "https://www.fws.gov/species/monarch-butterfly-danaus-plexippus"
+ },
+ {
+  "id": "r053",
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "What happens to an American Bumblebee colony in the fall?",
+  "choices": [
+   "The colony dies, but new mated queens hibernate until spring",
+   "All the workers hibernate together with the old queen",
+   "The whole colony flies south together for the winter",
+   "The colony makes honey for winter and keeps living all year long"
+  ],
+  "answerIndex": 0,
+  "explanation": "Bumblebee colonies last only one season. Young queens that overwinter start the next nests in spring.",
+  "source": "research",
+  "url": "https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/american-bumble-bee.shtml"
+ },
+ {
+  "id": "r054",
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "Where does the American Bumblebee build its nest?",
+  "choices": [
+   "On the surface of the ground in grassy areas",
+   "Inside a hollow hole high up in a tall tree",
+   "Inside a hanging paper ball under a roof or eave",
+   "Underwater, attached to pond plants and reeds"
+  ],
+  "answerIndex": 0,
+  "explanation": "Unlike honeybees, American Bumblebees nest low, on or near the ground in fields and meadows.",
+  "source": "research",
+  "url": "https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/american-bumble-bee.shtml"
+ },
+ {
+  "id": "r055",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Which statement about Eastern Hercules Beetle horns is true?",
+  "choices": [
+   "Only males have horns, used to fight other males",
+   "Both males and females have horns that they use to dig",
+   "Only females have horns, which they use to carry eggs",
+   "Neither has horns; the 'horns' are really long antennae"
+  ],
+  "answerIndex": 0,
+  "explanation": "The male's long horns are used in contests over breeding sites. Females are hornless.",
+  "source": "research",
+  "url": "https://mdc.mo.gov/discover-nature/field-guide/eastern-hercules-beetle"
+ },
+ {
+  "id": "r056",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "What do adult Eastern Hercules Beetles eat?",
+  "choices": [
+   "Rotting fruit and tree sap",
+   "Living green leaves from tall trees",
+   "Other beetles and small bugs",
+   "Blood from large animals like deer"
+  ],
+  "answerIndex": 0,
+  "explanation": "Adults feed on sugary rotting fruit and sap. The grubs, not the adults, eat rotting wood.",
+  "source": "research",
+  "url": "https://mdc.mo.gov/discover-nature/field-guide/eastern-hercules-beetle"
+ },
+ {
+  "id": "r057",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Which tree is a food plant for the Puss Caterpillar?",
+  "choices": [
+   "Oak, a large hardwood tree",
+   "Loblolly Pine, a long-needled pine",
+   "Milkweed, the Monarch's food plant",
+   "Muscadine, a climbing grape vine"
+  ],
+  "answerIndex": 0,
+  "explanation": "Puss Caterpillars eat the leaves of trees such as oak, elm, hackberry and maple. Milkweed is the Monarch caterpillar's food.",
+  "source": "research",
+  "url": "https://content.ces.ncsu.edu/puss-caterpillar"
+ },
+ {
+  "id": "r058",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Why does touching a Puss Caterpillar hurt?",
+  "choices": [
+   "Hollow spines under its fur break off and release venom",
+   "It bites hard with its large, strong jaws and hurts badly",
+   "It squirts burning acid from the tip of its tail",
+   "Its fuzzy hair is sharp like tiny slivers of glass"
+  ],
+  "answerIndex": 0,
+  "explanation": "The soft-looking fur hides venom spines. Look but do not touch.",
+  "source": "research",
+  "url": "https://content.ces.ncsu.edu/puss-caterpillar"
+ },
+ {
+  "id": "r059",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Where is the queen of a Carpenter Ant colony found?",
+  "choices": [
+   "In the main (parent) nest, not in the satellite nests",
+   "In every satellite nest, moving from one to another",
+   "Outside the nest, searching far and wide for food and water",
+   "She leaves the nest every day to forage for sugar"
+  ],
+  "answerIndex": 0,
+  "explanation": "Carpenter Ant satellite nests have workers, larvae and pupae but no queen. The queen stays in the parent colony.",
+  "source": "research",
+  "url": "https://content.ces.ncsu.edu/biology-and-control-of-carpenter-ants"
+ },
+ {
+  "id": "r060",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Which Carpenter Ants have wings?",
+  "choices": [
+   "Reproductives: future queens and males that fly to mate",
+   "All of the workers, once they are grown up",
+   "Only the oldest workers, near the end of their long lives",
+   "None of the ants in a colony ever grow wings at all"
+  ],
+  "answerIndex": 0,
+  "explanation": "Workers are wingless. Winged swarmers leave to mate and a new queen then loses her wings and starts a nest.",
+  "source": "research",
+  "url": "https://content.ces.ncsu.edu/biology-and-control-of-carpenter-ants"
+ },
+ {
+  "id": "r061",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "What does a Black Widow's web look like?",
+  "choices": [
+   "A messy tangle of threads in dark places near the ground",
+   "A neat round wheel with spokes, strung between trees",
+   "A flat white sheet that covers the whole tree trunk and bark",
+   "A long silk tube hanging in the air from a branch"
+  ],
+  "answerIndex": 0,
+  "explanation": "Widows hide in woodpiles, flowerpots and sheds. Wear gloves and look before reaching in.",
+  "source": "research",
+  "url": "https://hgic.clemson.edu/factsheet/widow-spiders/"
+ },
+ {
+  "id": "r062",
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Where is the red hourglass on a female Southern Black Widow?",
+  "choices": [
+   "On the underside of her round, shiny black abdomen",
+   "On the very top of her head, between her eyes",
+   "On the tips of her long back legs near the feet",
+   "Across the entire top of her back, right behind her head"
+  ],
+  "answerIndex": 0,
+  "explanation": "The hourglass on the underside is the key field mark. Males and young spiders are smaller and look different.",
+  "source": "research",
+  "url": "https://hgic.clemson.edu/factsheet/widow-spiders/"
+ },
+ {
+  "id": "r063",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "A Lone Star Tick larva has 6 legs. What happens after its first blood meal and molt?",
+  "choices": [
+   "It becomes an 8-legged nymph",
+   "It becomes a winged adult",
+   "It changes into a pupa inside a cocoon",
+   "It grows wings and flies"
+  ],
+  "answerIndex": 0,
+  "explanation": "Ticks go from egg to six-legged larva to eight-legged nymph to adult, and need blood between stages.",
+  "source": "research",
+  "url": "https://web.uri.edu/tickencounter/species/lone-star-tick/"
+ },
+ {
+  "id": "r064",
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "How does a tick reach a person walking through tall grass?",
+  "choices": [
+   "It waits on a grass tip and climbs on when brushed",
+   "It jumps from several feet away onto a person's leg",
+   "It flies in from nearby trees on tiny wings",
+   "It drops from the sky during rainstorms"
+  ],
+  "answerIndex": 0,
+  "explanation": "Ticks cannot fly or jump. Check yourself after outdoor play.",
+  "source": "research",
+  "url": "https://www.cdc.gov/ticks/about/index.html"
+ },
+ {
+  "id": "r065",
+  "category": "Putting It Together",
+  "topic": "Seed dispersal & spreading",
+  "question": "If American Bumblebees disappeared from a field, which plant would most likely make fewer berries?",
+  "choices": [
+   "Blackberry",
+   "Loblolly Pine",
+   "White Oak",
+   "Bald Cypress"
+  ],
+  "answerIndex": 0,
+  "explanation": "Bumblebees carry pollen between blackberry flowers, helping them form fruit. Pines and oaks depend on wind to carry pollen.",
+  "source": "research",
+  "url": "https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/american-bumble-bee.shtml"
+ },
+ {
+  "id": "r066",
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "Which pair are both predators of the Timber Rattlesnake?",
+  "choices": [
+   "Coyote and Eastern Kingsnake",
+   "Beaver and Meadow Vole",
+   "Gopher Tortoise and Eastern Bluebird",
+   "Eastern Mole and Opossum"
+  ],
+  "answerIndex": 0,
+  "explanation": "Coyotes, bobcats, hawks and kingsnakes all eat rattlesnakes. A predator hunts and eats other animals.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "id": "r067",
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "In the chain Grass, Gopher Tortoise, Bobcat, what role is the Gopher Tortoise?",
+  "choices": [
+   "Primary consumer (plant-eater)",
+   "Producer (makes its own food)",
+   "Decomposer (breaks down dead things)",
+   "Top predator (hunts other animals)"
+  ],
+  "answerIndex": 0,
+  "explanation": "Grass is the producer. A tortoise eats plants, so it is a primary consumer.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/turtles/gopher-tortoise"
+ },
+ {
+  "id": "r068",
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "Which animal gets most of its food from ants?",
+  "choices": [
+   "Eastern Narrow Mouth Toad",
+   "North American Beaver",
+   "Bald Eagle, the national bird",
+   "Common Snapping Turtle"
+  ],
+  "answerIndex": 0,
+  "explanation": "Narrow Mouth Toads feed mostly on ants. A beaver eats bark and plants.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/frogs-and-toads/eastern-narrowmouth-toad"
+ },
+ {
+  "id": "r069",
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "Marbled Salamanders and American Toads breed in temporary pools with no fish. Why?",
+  "choices": [
+   "Fish would eat the eggs and young, which can't flee",
+   "Fish make the water too salty for eggs to hatch",
+   "Fish eat all of the algae the babies need in order to grow",
+   "Pools with fish dry up much sooner in summer"
+  ],
+  "answerIndex": 0,
+  "explanation": "Temporary pools dry up and cannot hold fish. This gives eggs and tadpoles a safer place to grow.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/frogs/american-toad/"
+ },
+ {
+  "id": "r070",
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "Which is a camouflage adaptation of the Copperhead?",
+  "choices": [
+   "Its hourglass bands blend into the leaves",
+   "Its loud rattle that warns away enemies",
+   "Its hard shell that it hides inside",
+   "Its bright red throat fan that puffs out wide"
+  ],
+  "answerIndex": 0,
+  "explanation": "Copperheads hide and ambush prey. The bands blend with leaves, helping them hide from prey and predators.",
+  "source": "research",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "id": "r071",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Yellow Poplar is also called Tulip Poplar. Its large cup-shaped flowers look like what?",
+  "choices": [
+   "A tulip",
+   "A rose",
+   "A dandelion",
+   "A bell pepper"
+  ],
+  "answerIndex": 0,
+  "explanation": "The yellow-green flowers with orange markings look like tulips, which gives the tree its second name.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/liriodendron-tulipifera/"
+ },
+ {
+  "id": "r072",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which tree has leaves with four lobes and a flat, squared-off tip, as if cut with scissors?",
+  "choices": [
+   "Yellow Poplar",
+   "Southern Red Oak",
+   "American Sycamore",
+   "Eastern Red Cedar"
+  ],
+  "answerIndex": 0,
+  "explanation": "Yellow Poplar leaves have four main lobes and a broad, squared-off tip. They turn golden yellow in fall.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/liriodendron-tulipifera/"
+ },
+ {
+  "id": "r073",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "The showy white 'petals' of a Flowering Dogwood are really what?",
+  "choices": [
+   "Bracts, leaf-like parts around tiny flowers",
+   "Seed pods that split open wide in early spring",
+   "Young leaves that turn bright white each spring",
+   "Strips of bark that curl up and turn white"
+  ],
+  "answerIndex": 0,
+  "explanation": "The four big white parts are bracts. The real flowers are tiny, green and clustered in the middle.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/cornus-florida/"
+ },
+ {
+  "id": "r074",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Which tree grows fruit that looks like a blackberry, ripening from red to dark purple in summer?",
+  "choices": [
+   "Red Mulberry",
+   "Black Cherry",
+   "Flowering Dogwood",
+   "American Sycamore"
+  ],
+  "answerIndex": 0,
+  "explanation": "Red Mulberry fruit looks like a long blackberry. Catbirds, mockingbirds, foxes and squirrels eat it.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/morus-rubra/"
+ },
+ {
+  "id": "r075",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Red Mulberry leaves are best described as:",
+  "choices": [
+   "Heart-shaped with toothed edges",
+   "Needle-like and in bundles",
+   "Made of 15 to 23 small leaflets",
+   "Shaped like a tulip with four lobes"
+  ],
+  "answerIndex": 0,
+  "explanation": "Red Mulberry leaves are heart-shaped, toothed and rough on top. Some leaves on new shoots are lobed.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/morus-rubra/"
+ },
+ {
+  "id": "r076",
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "American Pokeweed is not a tree even though it can grow 4 to 10 feet tall. What color are its stems?",
+  "choices": [
+   "Purple to reddish-burgundy",
+   "Bright orange with yellow spots",
+   "White and peeling like birch bark",
+   "Dark gray with deep ridges"
+  ],
+  "answerIndex": 0,
+  "explanation": "Pokeweed is a soft, non-woody plant with thick purple-red stems. The stems die back in winter, but the thick root survives.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/phytolacca-americana/"
+ },
+ {
+  "id": "r077",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "A Black Walnut nut is covered by a thick husk. What is the husk like?",
+  "choices": [
+   "Fleshy and yellow-green, and it stains skin and clothes",
+   "Hard, woody and covered in sharp prickles, like a chestnut",
+   "Thin and papery with a flat wing, like a maple seed",
+   "Soft, red and sweet, so birds eat it like a berry"
+  ],
+  "answerIndex": 0,
+  "explanation": "The round nut hides inside a fleshy green husk that leaves stains. Squirrels love the nut inside.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/juglans-nigra/"
+ },
+ {
+  "id": "r078",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which oak has leaf lobes that end in tiny bristles?",
+  "choices": [
+   "Southern Red Oak",
+   "Black Walnut Tree",
+   "American Sycamore",
+   "Eastern Red Cedar"
+  ],
+  "answerIndex": 0,
+  "explanation": "Southern Red Oak lobes are bristle-tipped. White Oak lobes are smooth and rounded.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/quercus-falcata/"
+ },
+ {
+  "id": "r079",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "How long does a Southern Red Oak acorn take to mature?",
+  "choices": [
+   "Two growing seasons",
+   "Only a few short weeks",
+   "About ten full years",
+   "It is ripe when the flower fades"
+  ],
+  "answerIndex": 0,
+  "explanation": "Red oak acorns, such as the Southern Red Oak's, need two growing seasons. Deer, turkeys, jays and bears eat them.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/quercus-falcata/"
+ },
+ {
+  "id": "r080",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "The strong wood of White Oak is used to make what?",
+  "choices": [
+   "Barrels and flooring",
+   "Paper tissue",
+   "Matches and toothpicks",
+   "Cedar chests"
+  ],
+  "answerIndex": 0,
+  "explanation": "White Oak hardwood is used for flooring, woodwork, and barrels. Old sailing ships were also built from it.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/quercus-alba/"
+ },
+ {
+  "id": "r081",
+  "category": "Plants",
+  "topic": "Evergreen vs deciduous",
+  "question": "How many needles are in each bundle of a Loblolly Pine?",
+  "choices": [
+   "Three needles each",
+   "Two needles each",
+   "Five needles each",
+   "One single needle each"
+  ],
+  "answerIndex": 0,
+  "explanation": "Loblolly Pine needles come in bundles of three and are 6 to 10 inches long.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/pinus-taeda/"
+ },
+ {
+  "id": "r082",
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Mature Eastern Red Cedar branches are covered with what kind of leaves?",
+  "choices": [
+   "Tiny overlapping scales",
+   "Long needles in a bundle",
+   "Large, lobed leaf blades with pointed tips",
+   "Heart-shaped blades with toothed edges"
+  ],
+  "answerIndex": 0,
+  "explanation": "Adult red cedar leaves are small scales. Young shoots may have prickly, needle-like leaves.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/juniperus-virginiana/"
+ },
+ {
+  "id": "r083",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "What kind of fruit does Trumpet Creeper make after its orange flowers fade?",
+  "choices": [
+   "A long, bean-like pod that splits to free winged seeds",
+   "A blue berry with a waxy coating that birds eat in winter",
+   "A pair of winged helicopter seeds that spin down",
+   "A fuzzy round ball that hangs on a long stalk"
+  ],
+  "answerIndex": 0,
+  "explanation": "The pod is 3 to 5 inches long. When it splits open, wind carries the flat winged seeds away.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/campsis-radicans/"
+ },
+ {
+  "id": "r084",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "How does Muscadine hold on as it climbs?",
+  "choices": [
+   "With curling tendrils",
+   "With aerial rootlets like hairy feet",
+   "By twisting its leaf stalks around a tree",
+   "By sticking with sap"
+  ],
+  "answerIndex": 0,
+  "explanation": "Muscadine climbs with simple, unbranched tendrils. Poison Ivy and Trumpet Creeper cling with aerial rootlets instead.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/vitis-rotundifolia/"
+ },
+ {
+  "id": "r085",
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Poison Ivy can hurt people, but its dull white berries are eaten by which animals?",
+  "choices": [
+   "Songbirds and woodpeckers",
+   "Only humans and pet dogs",
+   "No animals, because they are too bitter",
+   "Only fish and frogs living in ponds"
+  ],
+  "answerIndex": 0,
+  "explanation": "Birds can safely eat Poison Ivy berries and spread the seeds. People should still never touch the plant.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/toxicodendron-radicans/"
+ },
+ {
+  "id": "r086",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "A blackberry is not one big berry. What is it made of?",
+  "choices": [
+   "Many tiny juicy fruits (drupelets) stuck together",
+   "One large seed wrapped inside one thick, smooth skin",
+   "A hard woody shell with several nuts packed inside",
+   "A long green pod that holds many small round beans"
+  ],
+  "answerIndex": 0,
+  "explanation": "Each little bump on a blackberry is its own tiny fruit with a seed. Together they form one aggregate fruit.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/"
+ },
+ {
+  "id": "r087",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "A Blackberry cane grows leaves in its first year. What happens in its second year?",
+  "choices": [
+   "It produces flowers and fruit, then dies",
+   "It grows into a thick tree trunk and lives for decades",
+   "It loses all of its roots and grows new ones",
+   "It grows acorns and nuts in the late summer"
+  ],
+  "answerIndex": 0,
+  "explanation": "Blackberry canes live two years: they grow the first year, fruit the second, then die back while new canes replace them.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/"
+ },
+ {
+  "id": "r088",
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Which part of the Black Cherry tree can make livestock and pets sick?",
+  "choices": [
+   "Its leaves and seeds, which contain cyanide",
+   "Only the smell of its bark when it is scratched",
+   "Only the pollen from its spring flowers",
+   "Nothing, because every part of the tree is safe"
+  ],
+  "answerIndex": 0,
+  "explanation": "Black Cherry leaves, fruit pits and seeds contain cyanide compounds. Birds eat the ripe fruit, but people should not.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/prunus-serotina/"
+ },
+ {
+  "id": "r089",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Which tree opens small red flowers in late winter, before its leaves appear?",
+  "choices": [
+   "Red Maple",
+   "White Oak",
+   "Loblolly Pine",
+   "Black Walnut"
+  ],
+  "answerIndex": 0,
+  "explanation": "Red Maple flowers in January to March, and it has red seeds and red fall leaves too. It is one of the first trees to bloom.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/acer-rubrum/"
+ },
+ {
+  "id": "r090",
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "The seed ball of an American Sycamore hangs from the branch like an ornament. How do its seeds spread?",
+  "choices": [
+   "They fly off the fuzzy ball on tiny downy tufts",
+   "They are dropped in a husk that splits in four",
+   "A papery samara wing spins them like a helicopter",
+   "Raccoons carry the whole ball back to their dens"
+  ],
+  "answerIndex": 0,
+  "explanation": "The ball breaks apart in fall and each seed floats away on the wind, carried by a tuft of fluff. Finches and chickadees eat them.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/platanus-occidentalis/"
+ },
+ {
+  "id": "r091",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Why are Green Ash trees in danger across the United States?",
+  "choices": [
+   "A beetle, the emerald ash borer, kills the trees",
+   "They absorb too much salt from road crews each winter",
+   "Squirrels eat nearly all of the seeds each autumn",
+   "Their leaves release a poison that kills nearby trees"
+  ],
+  "answerIndex": 0,
+  "explanation": "The emerald ash borer, a beetle from Asia found in the U.S. in 2002, usually kills an ash within 3 to 5 years.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/fraxinus-pennsylvanica/"
+ },
+ {
+  "id": "r092",
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "The blue, waxy cones of Eastern Red Cedar are a favorite winter food of which bird?",
+  "choices": [
+   "Cedar Waxwing",
+   "Great Horned Owl",
+   "Great Blue Heron",
+   "Ruby-throated Hummingbird"
+  ],
+  "answerIndex": 0,
+  "explanation": "Cedar Waxwings eat the juniper 'berries'. The dense evergreen branches also give songbirds winter cover.",
+  "source": "research",
+  "url": "https://plants.ces.ncsu.edu/plants/juniperus-virginiana/"
+ },
+ {
+  "id": "r093",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion has rugged mountains with cool, clear, fast-flowing streams?",
+  "choices": [
+   "Blue Ridge",
+   "Southern Coastal Plains",
+   "Southeastern Plains",
+   "Piedmont"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Blue Ridge is Georgia's mountain ecoregion. Its steep, forested slopes feed high-gradient streams with cool water.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r094",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "The Okefenokee Swamp, with tea-colored water and peat beds, is in which ecoregion?",
+  "choices": [
+   "Southern Coastal Plains",
+   "Southwestern Appalachians",
+   "Southeastern Plains",
+   "Ridge and Valley"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Okefenokee is a flat, swampy lowland in the Southern Coastal Plains. Its water is dark from plant material.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r095",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion lies just south of the Piedmont, past the Fall Line?",
+  "choices": [
+   "Southeastern Plains",
+   "Blue Ridge",
+   "Ridge and Valley",
+   "Southwestern Appalachians"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Fall Line is the Piedmont's southern edge. Below it, the land becomes the flatter, sandier Southeastern Plains.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r096",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Lookout Mountain and Sand Mountain in northwest Georgia belong to which ecoregion?",
+  "choices": [
+   "Southwestern Appalachians",
+   "Southeastern Plains",
+   "Northern Blue Ridge Mountains",
+   "Southern Coastal Plains"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Southwestern Appalachians cover only Georgia's far northwest corner. Lookout and Sand Mountains are flat-topped plateaus there.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r097",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Farm fields of peanuts, cotton, soybeans and pecans are most common in which ecoregion?",
+  "choices": [
+   "Southeastern Plains",
+   "Blue Ridge",
+   "Southwestern Appalachians",
+   "Ridge and Valley"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Southeastern Plains have broad, gently rolling land and sandy soils that are good for crops such as peanuts and cotton.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r098",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "In the Ridge and Valley, where are most farms and towns found?",
+  "choices": [
+   "In the wide valleys; forests cover many ridges",
+   "On the steepest mountaintops, above the clouds",
+   "Out on the sandy barrier islands near the coast",
+   "Along the tidal salt marshes of the coast"
+  ],
+  "answerIndex": 0,
+  "explanation": "The valleys have fertile limestone and shale soils for farms. The steep ridges stay forested. The region also has many springs and caves.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r099",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Much of the Piedmont was farmed long ago. What is the land like today?",
+  "choices": [
+   "Pine and hardwood woods, pasture and growing cities",
+   "Salt marshes, barrier islands and sandy beaches by the sea",
+   "Bare rock mountaintops and cold, fast mountain streams",
+   "Flat sandy peanut and cotton fields everywhere"
+  ],
+  "answerIndex": 0,
+  "explanation": "Much of the Piedmont was once cotton and crop land. Today it is mostly woodland, pasture and fast-growing suburbs.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r100",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "The Piedmont is described as a transition between which two kinds of land?",
+  "choices": [
+   "Mountains and the coastal plain",
+   "Desert and tropical rainforest",
+   "Ocean cliffs and sandy beaches",
+   "Swamp forest and open salt marsh"
+  ],
+  "answerIndex": 0,
+  "explanation": "Piedmont means 'foot of the mountain'. It is rolling hills between the mountains to the northwest and the flatter coastal plain.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r101",
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion has Georgia's lowest land, including barrier islands and tidal marshes?",
+  "choices": [
+   "Southern Coastal Plains",
+   "Piedmont",
+   "Southeastern Plains",
+   "Southwestern Appalachians"
+  ],
+  "answerIndex": 0,
+  "explanation": "The Sea Islands and coastal marshes are Georgia's lowest ground. Live oak and palmetto grow on the islands.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r102",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "On dry, sandy Sand Hills in the Southeastern Plains, which trees dominate?",
+  "choices": [
+   "Longleaf pine and turkey oak",
+   "Yellow Poplar and sugar maple",
+   "Bald cypress and water tupelo",
+   "Live oak and palmetto"
+  ],
+  "answerIndex": 0,
+  "explanation": "Sandy, low-nutrient soil drains fast, so drought-tolerant longleaf pine and turkey oak do best on Sand Hills.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r103",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "In which ecoregion do shady ravines grow Yellow Poplar with beech and sugar maple, while mountaintops grow oaks and shortleaf pine?",
+  "choices": [
+   "Southwestern Appalachians",
+   "Southern Coastal Plains",
+   "Southeastern Plains",
+   "Sea Islands and Salt Marsh Coast"
+  ],
+  "answerIndex": 0,
+  "explanation": "Moist ravines in the Southwestern Appalachians hold cool, rich forests. The drier summits favor oaks and pines.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "id": "r104",
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Sinkholes, springs and limesink ponds are found on the Dougherty Plain in southwest Georgia. Which ecoregion is it part of?",
+  "choices": [
+   "Southeastern Plains",
+   "Ridge and Valley",
+   "Piedmont",
+   "Southwestern Appalachians"
+  ],
+  "answerIndex": 0,
+  "explanation": "Water slowly dissolves limestone underground, making sinkholes and springs in the Southeastern Plains.",
+  "source": "research",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
  }
 ]

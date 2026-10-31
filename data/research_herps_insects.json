@@ -1,0 +1,470 @@
+[
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "What does the pattern on a Copperhead's back look like?",
+  "choices": [
+   "Dark hourglass-shaped crossbands, narrow on top and wide on the sides",
+   "A solid black back with a bright red stripe down the middle of the body",
+   "Bright red, yellow and black rings circling the whole body from head to tail",
+   "White chain-like lines running along a shiny black body from head to tail"
+  ],
+  "explanation": "Copperheads have light brown bodies with dark hourglass-shaped bands. The chain-like lines belong to the harmless Eastern Kingsnake.",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Baby Copperheads have a bright yellow tail tip that they wiggle like a worm. What is this trick for?",
+  "choices": [
+   "Luring frogs and lizards close enough to strike",
+   "Warning hungry birds that the snake is poisonous to eat",
+   "Making a rattling sound to scare away large enemies",
+   "Attracting a mate"
+  ],
+  "explanation": "Young Copperheads eat mostly frogs and lizards. The wiggling tail tip fools prey into coming close.",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How is the way a Copperhead starts its young different from the way an Eastern Kingsnake does?",
+  "choices": [
+   "The Copperhead gives birth to live young; the Eastern Kingsnake lays eggs",
+   "The Copperhead lays eggs in water; the Eastern Kingsnake lays eggs in trees",
+   "Both give birth to live young",
+   "The Copperhead lays soft jelly eggs; the Eastern Kingsnake lays hard bird-like eggs"
+  ],
+  "explanation": "Copperheads give birth to live baby snakes in late summer. Kingsnakes lay eggs in rotting logs or burrows in early summer.",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "What is a Timber Rattlesnake's rattle made of?",
+  "choices": [
+   "Keratin, the same material as your fingernails and hair",
+   "Bone, joined to the end of its spine like the rest of its skeleton",
+   "Hard shell material, like the shell on a turtle's back",
+   "Dried mud and clay from the snake's burrow, glued with spit"
+  ],
+  "explanation": "A rattle is made of loose rings of keratin at the end of the tail. Newborn rattlesnakes have just one small 'button.'",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How does a Timber Rattlesnake usually catch a squirrel or mouse?",
+  "choices": [
+   "It waits hidden, strikes, then follows the prey's scent trail",
+   "It chases the prey for miles across open ground in daylight",
+   "It wraps around the prey and squeezes until it stops breathing",
+   "It swims underwater and grabs the prey from below the surface"
+  ],
+  "explanation": "Timber Rattlesnakes are ambush hunters. They bite, let go so they are not hurt, and track the prey by scent until it dies.",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "Which animal on the 2026 list is most likely to eat a Timber Rattlesnake?",
+  "choices": [
+   "Eastern Kingsnake",
+   "Gopher Tortoise",
+   "Southern Leopard Frog",
+   "Eastern Bluebird"
+  ],
+  "explanation": "Kingsnakes eat other snakes, including rattlesnakes. Bobcats, coyotes and hawks also eat Timber Rattlesnakes.",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "A Cottonmouth is cornered and does not flee. What is it most likely to do?",
+  "choices": [
+   "Stand its ground and gape to show the white inside its mouth",
+   "Dive straight underwater and swim away as fast as it possibly can",
+   "Climb high into a nearby tree and hide in the leaves",
+   "Drop its tail like a lizard and run away into the grass"
+  ],
+  "explanation": "Cottonmouths often hold still and gape. The name comes from the white lining of the mouth.",
+  "url": "https://srelherp.uga.edu/snakes/cottonmouth-water-moccasin/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "You see a snake basking on a branch several feet above a swamp. Why is it more likely a harmless watersnake than a Cottonmouth?",
+  "choices": [
+   "Cottonmouths rarely climb, but watersnakes bask on branches",
+   "Cottonmouths cannot swim, so they stay far away from any water",
+   "Watersnakes are the only snakes that can see in daylight",
+   "Cottonmouths live only in dry deserts, far from swamps"
+  ],
+  "explanation": "Cottonmouths usually stay on the ground or low near the water. Watersnakes also flee underwater faster when you come near.",
+  "url": "https://srelherp.uga.edu/snakes/cottonmouth-water-moccasin/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Venomous snakes",
+  "question": "How does an Eastern Kingsnake kill the rodents and lizards it eats?",
+  "choices": [
+   "It squeezes them (constriction)",
+   "It injects strong venom into them",
+   "It drowns them in a nearby pond",
+   "It stings them with the tip of its tail"
+  ],
+  "explanation": "Kingsnakes are non-venomous constrictors. They coil around prey and squeeze it.",
+  "url": "https://srelherp.uga.edu/snakes/eastern-kingsnake/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Gopher Tortoise & keystones",
+  "question": "What does a Gopher Tortoise mostly eat?",
+  "choices": [
+   "Grasses and other low-growing plants",
+   "Fish and frogs",
+   "Dead animals it finds on the ground",
+   "Acorns and pine cones from tall trees"
+  ],
+  "explanation": "Gopher Tortoises are plant-eaters (herbivores). They graze on grasses and low plants in sunny, open woods.",
+  "url": "https://srelherp.uga.edu/turtles/gopher-tortoise"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "Young Southeastern Five-Lined Skinks have a bright blue tail. What is the blue tail believed to do?",
+  "choices": [
+   "Draw a predator to the tail instead of the body",
+   "Help the skink swim quickly across ponds and creeks",
+   "Warn other animals that the skink is very venomous",
+   "Attract bugs close so the skink can eat them"
+  ],
+  "explanation": "A predator that grabs the bright tail gets only a wriggling tail while the skink escapes. The adult skink's tail color fades.",
+  "url": "https://srelherp.uga.edu/lizards/southeastern-five-lined-skink/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Lizards, skinks & turtles",
+  "question": "A Common Snapping Turtle is very calm in water but acts differently on land. What does it do if it is cornered on land?",
+  "choices": [
+   "Strikes aggressively with its jaws",
+   "Hides its whole body inside its shell",
+   "Plays dead until the danger passes",
+   "Quickly digs a burrow to hide in"
+  ],
+  "explanation": "Snapping turtles are usually docile in water but will strike when cornered on land. Never pick one up.",
+  "url": "https://srelherp.uga.edu/turtles/common-snapping-turtle/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "An American Toad has a swollen lump behind each eye. What is it for?",
+  "choices": [
+   "It makes a bad-tasting poison to protect the toad",
+   "It lets the toad hear sounds clearly while underwater",
+   "It stores extra water that the toad drinks on dry days",
+   "It holds extra air that the toad uses for its loud call"
+  ],
+  "explanation": "These parotid glands release toxins that make predators spit the toad out. Wash your hands after touching a toad.",
+  "url": "https://srelherp.uga.edu/frogs/american-toad/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "What does the call of the Eastern Narrow Mouth Toad sound like?",
+  "choices": [
+   "A long, nasal 'waaaah' like a bleating sheep",
+   "A deep 'jug-o-rum' that echoes over the pond",
+   "A long high trill like a cricket at night",
+   "A chuckling croak like a person laughing out loud"
+  ],
+  "explanation": "Males call from the water with just their snouts out. The call is long, nasal and high-pitched.",
+  "url": "https://srelherp.uga.edu/frogs-and-toads/eastern-narrowmouth-toad"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Which field mark helps you identify a Southern Leopard Frog?",
+  "choices": [
+   "Large, round dark spots on its back and a pale stripe on the jaw",
+   "Bright orange thighs, with square black spots on a gray, smooth back",
+   "A very bumpy brown back with a swollen gland behind each eye",
+   "Smooth black skin with white crossbands from nose to tail"
+  ],
+  "explanation": "Its call is a chuckling croak. It often wanders far from water, especially on rainy nights.",
+  "url": "https://srelherp.uga.edu/frogs/southern-leopard-frog/"
+ },
+ {
+  "category": "Reptiles & Amphibians",
+  "topic": "Reptile vs amphibian",
+  "question": "Where does an adult Marbled Salamander spend most of its life?",
+  "choices": [
+   "Underground or under logs, coming out on rainy nights",
+   "Floating in the open water of ponds and lakes all year long",
+   "High up in the branches of tall trees all year",
+   "Lying in the sun on warm rocks in the daytime"
+  ],
+  "explanation": "Marbled Salamanders are black with white or silvery bands. They live hidden on land and travel to wet places on rainy fall nights to breed.",
+  "url": "https://srelherp.uga.edu/salamanders/marbled-salamander/"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "Where do most eastern Monarch butterflies spend the winter?",
+  "choices": [
+   "In oyamel fir forests in the mountains of Mexico",
+   "In deep holes under swamps in southern Georgia",
+   "In hollow trees in the forests of Canada",
+   "Buried in the sand on the warm beaches of Florida"
+  ],
+  "explanation": "Eastern Monarchs may fly more than 2,000 miles to Mexico. Cold winters in the north would kill them.",
+  "url": "https://www.fws.gov/species/monarch-butterfly-danaus-plexippus"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Metamorphosis & life cycles",
+  "question": "The last Monarch generation of the year is different from summer Monarchs. How?",
+  "choices": [
+   "It lives for months and flies south, unlike summer ones",
+   "It cannot fly, so it stays in one yard all winter long",
+   "It lives only a few days, much shorter than summer Monarchs",
+   "It is a different kind of insect, such as a moth"
+  ],
+  "explanation": "The fall generation delays mating and lives about 8 months. Summer Monarchs live only 2 to 4 weeks.",
+  "url": "https://www.fws.gov/species/monarch-butterfly-danaus-plexippus"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "What happens to an American Bumblebee colony in the fall?",
+  "choices": [
+   "The colony dies, but new mated queens hibernate until spring",
+   "All the workers hibernate together with the old queen",
+   "The whole colony flies south together for the winter",
+   "The colony makes honey for winter and keeps living all year long"
+  ],
+  "explanation": "Bumblebee colonies last only one season. Young queens that overwinter start the next nests in spring.",
+  "url": "https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/american-bumble-bee.shtml"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Pollinators & bees",
+  "question": "Where does the American Bumblebee build its nest?",
+  "choices": [
+   "On the surface of the ground in grassy areas",
+   "Inside a hollow hole high up in a tall tree",
+   "Inside a hanging paper ball under a roof or eave",
+   "Underwater, attached to pond plants and reeds"
+  ],
+  "explanation": "Unlike honeybees, American Bumblebees nest low, on or near the ground in fields and meadows.",
+  "url": "https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/american-bumble-bee.shtml"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Which statement about Eastern Hercules Beetle horns is true?",
+  "choices": [
+   "Only males have horns, used to fight other males",
+   "Both males and females have horns that they use to dig",
+   "Only females have horns, which they use to carry eggs",
+   "Neither has horns; the 'horns' are really long antennae"
+  ],
+  "explanation": "The male's long horns are used in contests over breeding sites. Females are hornless.",
+  "url": "https://mdc.mo.gov/discover-nature/field-guide/eastern-hercules-beetle"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "What do adult Eastern Hercules Beetles eat?",
+  "choices": [
+   "Rotting fruit and tree sap",
+   "Living green leaves from tall trees",
+   "Other beetles and small bugs",
+   "Blood from large animals like deer"
+  ],
+  "explanation": "Adults feed on sugary rotting fruit and sap. The grubs, not the adults, eat rotting wood.",
+  "url": "https://mdc.mo.gov/discover-nature/field-guide/eastern-hercules-beetle"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Which tree is a food plant for the Puss Caterpillar?",
+  "choices": [
+   "Oak, a large hardwood tree",
+   "Loblolly Pine, a long-needled pine",
+   "Milkweed, the Monarch's food plant",
+   "Muscadine, a climbing grape vine"
+  ],
+  "explanation": "Puss Caterpillars eat the leaves of trees such as oak, elm, hackberry and maple. Milkweed is the Monarch caterpillar's food.",
+  "url": "https://content.ces.ncsu.edu/puss-caterpillar"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Why does touching a Puss Caterpillar hurt?",
+  "choices": [
+   "Hollow spines under its fur break off and release venom",
+   "It bites hard with its large, strong jaws and hurts badly",
+   "It squirts burning acid from the tip of its tail",
+   "Its fuzzy hair is sharp like tiny slivers of glass"
+  ],
+  "explanation": "The soft-looking fur hides venom spines. Look but do not touch.",
+  "url": "https://content.ces.ncsu.edu/puss-caterpillar"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Where is the queen of a Carpenter Ant colony found?",
+  "choices": [
+   "In the main (parent) nest, not in the satellite nests",
+   "In every satellite nest, moving from one to another",
+   "Outside the nest, searching far and wide for food and water",
+   "She leaves the nest every day to forage for sugar"
+  ],
+  "explanation": "Carpenter Ant satellite nests have workers, larvae and pupae but no queen. The queen stays in the parent colony.",
+  "url": "https://content.ces.ncsu.edu/biology-and-control-of-carpenter-ants"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Which Carpenter Ants have wings?",
+  "choices": [
+   "Reproductives: future queens and males that fly to mate",
+   "All of the workers, once they are grown up",
+   "Only the oldest workers, near the end of their long lives",
+   "None of the ants in a colony ever grow wings at all"
+  ],
+  "explanation": "Workers are wingless. Winged swarmers leave to mate and a new queen then loses her wings and starts a nest.",
+  "url": "https://content.ces.ncsu.edu/biology-and-control-of-carpenter-ants"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "What does a Black Widow's web look like?",
+  "choices": [
+   "A messy tangle of threads in dark places near the ground",
+   "A neat round wheel with spokes, strung between trees",
+   "A flat white sheet that covers the whole tree trunk and bark",
+   "A long silk tube hanging in the air from a branch"
+  ],
+  "explanation": "Widows hide in woodpiles, flowerpots and sheds. Wear gloves and look before reaching in.",
+  "url": "https://hgic.clemson.edu/factsheet/widow-spiders/"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect ID, safety & status",
+  "question": "Where is the red hourglass on a female Southern Black Widow?",
+  "choices": [
+   "On the underside of her round, shiny black abdomen",
+   "On the very top of her head, between her eyes",
+   "On the tips of her long back legs near the feet",
+   "Across the entire top of her back, right behind her head"
+  ],
+  "explanation": "The hourglass on the underside is the key field mark. Males and young spiders are smaller and look different.",
+  "url": "https://hgic.clemson.edu/factsheet/widow-spiders/"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "A Lone Star Tick larva has 6 legs. What happens after its first blood meal and molt?",
+  "choices": [
+   "It becomes an 8-legged nymph",
+   "It becomes a winged adult",
+   "It changes into a pupa inside a cocoon",
+   "It grows wings and flies"
+  ],
+  "explanation": "Ticks go from egg to six-legged larva to eight-legged nymph to adult, and need blood between stages.",
+  "url": "https://web.uri.edu/tickencounter/species/lone-star-tick/"
+ },
+ {
+  "category": "Insects & Arachnids",
+  "topic": "Insect vs arachnid",
+  "question": "How does a tick reach a person walking through tall grass?",
+  "choices": [
+   "It waits on a grass tip and climbs on when brushed",
+   "It jumps from several feet away onto a person's leg",
+   "It flies in from nearby trees on tiny wings",
+   "It drops from the sky during rainstorms"
+  ],
+  "explanation": "Ticks cannot fly or jump. Check yourself after outdoor play.",
+  "url": "https://www.cdc.gov/ticks/about/index.html"
+ },
+ {
+  "category": "Putting It Together",
+  "topic": "Seed dispersal & spreading",
+  "question": "If American Bumblebees disappeared from a field, which plant would most likely make fewer berries?",
+  "choices": [
+   "Blackberry",
+   "Loblolly Pine",
+   "White Oak",
+   "Bald Cypress"
+  ],
+  "explanation": "Bumblebees carry pollen between blackberry flowers, helping them form fruit. Pines and oaks depend on wind to carry pollen.",
+  "url": "https://www.fs.usda.gov/wildflowers/pollinators/pollinator-of-the-month/american-bumble-bee.shtml"
+ },
+ {
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "Which pair are both predators of the Timber Rattlesnake?",
+  "choices": [
+   "Coyote and Eastern Kingsnake",
+   "Beaver and Meadow Vole",
+   "Gopher Tortoise and Eastern Bluebird",
+   "Eastern Mole and Opossum"
+  ],
+  "explanation": "Coyotes, bobcats, hawks and kingsnakes all eat rattlesnakes. A predator hunts and eats other animals.",
+  "url": "https://srelherp.uga.edu/snakes/canebrake-timber-rattlesnake"
+ },
+ {
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "In the chain Grass, Gopher Tortoise, Bobcat, what role is the Gopher Tortoise?",
+  "choices": [
+   "Primary consumer (plant-eater)",
+   "Producer (makes its own food)",
+   "Decomposer (breaks down dead things)",
+   "Top predator (hunts other animals)"
+  ],
+  "explanation": "Grass is the producer. A tortoise eats plants, so it is a primary consumer.",
+  "url": "https://srelherp.uga.edu/turtles/gopher-tortoise"
+ },
+ {
+  "category": "Putting It Together",
+  "topic": "Food chains & roles",
+  "question": "Which animal gets most of its food from ants?",
+  "choices": [
+   "Eastern Narrow Mouth Toad",
+   "North American Beaver",
+   "Bald Eagle, the national bird",
+   "Common Snapping Turtle"
+  ],
+  "explanation": "Narrow Mouth Toads feed mostly on ants. A beaver eats bark and plants.",
+  "url": "https://srelherp.uga.edu/frogs-and-toads/eastern-narrowmouth-toad"
+ },
+ {
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "Marbled Salamanders and American Toads breed in temporary pools with no fish. Why?",
+  "choices": [
+   "Fish would eat the eggs and young, which can't flee",
+   "Fish make the water too salty for eggs to hatch",
+   "Fish eat all of the algae the babies need in order to grow",
+   "Pools with fish dry up much sooner in summer"
+  ],
+  "explanation": "Temporary pools dry up and cannot hold fish. This gives eggs and tadpoles a safer place to grow.",
+  "url": "https://srelherp.uga.edu/frogs/american-toad/"
+ },
+ {
+  "category": "Putting It Together",
+  "topic": "Habitat, keystones & adaptations",
+  "question": "Which is a camouflage adaptation of the Copperhead?",
+  "choices": [
+   "Its hourglass bands blend into the leaves",
+   "Its loud rattle that warns away enemies",
+   "Its hard shell that it hides inside",
+   "Its bright red throat fan that puffs out wide"
+  ],
+  "explanation": "Copperheads hide and ambush prey. The bands blend with leaves, helping them hide from prey and predators.",
+  "url": "https://srelherp.uga.edu/snakes/copperhead/"
+ }
+]

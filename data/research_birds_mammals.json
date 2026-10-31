@@ -1,0 +1,444 @@
+[
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Where does a Carolina Chickadee build its nest?",
+  "choices": [
+   "In a tree cavity or nest box, lined with hair and fibers",
+   "In a deep mud cup plastered under a bridge or barn rafter",
+   "On open ground in a grassy field, hidden in the stems",
+   "In a huge pile of sticks and branches high in a tall tree"
+  ],
+  "explanation": "The chickadee uses a hole in a tree (it can dig one in soft wood or take an empty one) and lines it softly with hair or plant fibers.",
+  "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A Tufted Titmouse cannot dig its own nest hole. Where does it nest?",
+  "choices": [
+   "In a woodpecker hole, a natural cavity or a nest box",
+   "In a tunnel it digs into a sandy creek bank by itself",
+   "In a mud cup plastered onto a barn beam or porch light",
+   "On the ground in a shallow scrape under a thick shrub"
+  ],
+  "explanation": "Titmice need a ready-made hole, such as an old woodpecker hole, a natural cavity, or a nest box.",
+  "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A Tufted Titmouse often lines its nest with soft hair or fur. Why is this helpful?",
+  "choices": [
+   "It cushions and keeps the eggs and chicks warm",
+   "It makes the nest heavy so wind cannot blow it away",
+   "It hides the eggs from owls",
+   "It keeps insects out of the cavity"
+  ],
+  "explanation": "Soft hair and fur make a warm, cozy bed for eggs and nestlings inside the cavity.",
+  "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A Great Horned Owl is looking for a nest. What does it usually do?",
+  "choices": [
+   "Takes over an old hawk or crow stick nest",
+   "Builds a tight mud cup under barn eaves or a bridge",
+   "Digs a long tunnel into a muddy bank near a creek",
+   "Weaves a hanging basket of grass from a thin branch"
+  ],
+  "explanation": "Great Horned Owls do not build nests. They move into old nests made by other animals, like hawks, crows, or herons.",
+  "url": "https://www.allaboutbirds.org/guide/Great_Horned_Owl/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Barn Owls make very little nest. Where do they usually lay their eggs?",
+  "choices": [
+   "In a hollow tree, barn loft or nest box",
+   "In a mud cup stuck to a cliff or wall",
+   "In a big stick nest at the top of a tall pine",
+   "In a grass cup hidden in the middle of a lawn"
+  ],
+  "explanation": "Barn Owls use hollow trees, barns, and nest boxes. They do not build much of a nest.",
+  "url": "https://www.allaboutbirds.org/guide/Barn_Owl/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "What kind of nest does a Mourning Dove build?",
+  "choices": [
+   "A thin, loose platform of twigs and grass",
+   "A deep mud cup",
+   "A tight cup woven from hair and moss in a hole",
+   "A huge nest of sticks as wide as a bed"
+  ],
+  "explanation": "Mourning Dove nests are flimsy twig platforms with little lining. It is a simple nest for two eggs.",
+  "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Mourning Dove parents feed their chicks \"crop milk.\" What is that?",
+  "choices": [
+   "A nutritious liquid made in the parent's throat",
+   "Milk the parents steal from a cow or goat at a farm",
+   "Worms and insects chewed up and spit out as paste",
+   "Fresh water carried in the beak from a nearby pond"
+  ],
+  "explanation": "Both dove parents make crop milk from cells lining the crop, a pouch in the throat, to feed their chicks.",
+  "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Who builds the mud cup nest of a Barn Swallow?",
+  "choices": [
+   "Both the male and the female",
+   "Only the male builds it alone",
+   "Only the female builds it alone",
+   "Only the chicks, once they hatch"
+  ],
+  "explanation": "Barn Swallow pairs work together, carrying mud to shape the cup on a beam, ledge, or bridge.",
+  "url": "https://www.allaboutbirds.org/guide/Barn_Swallow/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "What color are Eastern Bluebird eggs?",
+  "choices": [
+   "Pale blue",
+   "Speckled brown",
+   "Pure white",
+   "Bright green"
+  ],
+  "explanation": "Bluebirds usually lay pale blue eggs inside a cavity or nest box.",
+  "url": "https://www.allaboutbirds.org/news/backyard-bird-nest-and-egg-id-with-nestwatch/"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "An American Robin's nest is a cup of grass and twigs reinforced with what?",
+  "choices": [
+   "A middle layer of mud",
+   "Spider silk and thin string",
+   "Feathers glued with sap",
+   "Snake skin and shed fur"
+  ],
+  "explanation": "The female robin shapes a cup and strengthens it with mud, then lines it with soft dry grass. Her eggs are bright blue.",
+  "url": "https://www.allaboutbirds.org/guide/American_Robin/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Where does a Brown Thrasher usually place its bulky nest of twigs?",
+  "choices": [
+   "Low in a thorny shrub or small tree, or on the ground",
+   "High at the very top of the tallest pine tree in the woods",
+   "Deep inside a hollow tree trunk, lined with soft moss",
+   "Hanging from the underside of a high bridge or rafter"
+  ],
+  "explanation": "Thrashers hide their nests low in dense, thorny shrubs, which helps keep predators away.",
+  "url": "https://www.allaboutbirds.org/guide/Brown_Thrasher/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "Bald Eagles often return to the same nest year after year. What happens to it?",
+  "choices": [
+   "Each year they add more sticks, so it grows enormous",
+   "It stays exactly the same size, since they never add to it",
+   "They tear it all down and leave the tree empty each year",
+   "They plaster it with mud, so it becomes a heavy mud cup"
+  ],
+  "explanation": "Eagle nests can be 5 to 6 feet across and keep getting bigger as the pair adds material each year.",
+  "url": "https://www.allaboutbirds.org/guide/Bald_Eagle/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "A Red-shouldered Hawk is a good clue that a forest has which habitat feature?",
+  "choices": [
+   "Tall woods near water",
+   "Open desert",
+   "Mowed lawns with no trees",
+   "Rocky mountaintops above the trees"
+  ],
+  "explanation": "These hawks live in bottomland and swampy forests and hunt frogs, snakes, and small mammals near water.",
+  "url": "https://www.allaboutbirds.org/guide/Red-shouldered_Hawk/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which food does a Red-shouldered Hawk commonly eat?",
+  "choices": [
+   "Frogs, snakes, and small mammals",
+   "Seeds taken from backyard bird feeders",
+   "Nectar from big garden flowers",
+   "Only earthworms from the lawn"
+  ],
+  "explanation": "It is a bird of prey that drops onto frogs, snakes, lizards, and small mammals on the forest floor.",
+  "url": "https://www.allaboutbirds.org/guide/Red-shouldered_Hawk/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "How do Blue Jays help oak forests grow?",
+  "choices": [
+   "They bury acorns and forget some, which sprout",
+   "They pull weeds and tall vines away from young oak trees",
+   "They scare away every insect that eats the acorns",
+   "They drop sticky tree sap onto the soil each fall"
+  ],
+  "explanation": "Jays carry and cache thousands of acorns each fall. The ones they never retrieve can grow into trees.",
+  "url": "https://www.allaboutbirds.org/guide/Blue_Jay/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "How does a Northern Mockingbird's diet change through the year?",
+  "choices": [
+   "Mostly insects in summer, fruit in fall and winter",
+   "Only seeds and nuts all year long, in every season",
+   "Only fish and frogs in summer, only worms in winter",
+   "It stops eating in winter and lives off stored fat"
+  ],
+  "explanation": "Mockingbirds are omnivores. Insects are the main food in summer, and berries and fruit take over in fall and winter.",
+  "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird ID & behavior",
+  "question": "Which is true about Northern Mockingbird singing?",
+  "choices": [
+   "It often sings at night, mostly unmated males",
+   "It never sings after sunset, and sleeps all night",
+   "It only sings in winter, when the leaves are gone",
+   "It sings one short song that it repeats all day"
+  ],
+  "explanation": "Mockingbirds sing through the day and often into the night, which surprises many people.",
+  "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird feeders & diet",
+  "question": "An Eastern Bluebird spots something on the grass below its perch and drops down. What is it most likely to catch?",
+  "choices": [
+   "A caterpillar or grasshopper",
+   "A small minnow from a nearby creek",
+   "A field mouse hiding in the grass",
+   "A sunflower seed from a feeder"
+  ],
+  "explanation": "Bluebirds mostly eat insects they spot on the ground. In fall and winter they eat berries too.",
+  "url": "https://www.allaboutbirds.org/guide/Eastern_Bluebird/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird feeders & diet",
+  "question": "In winter, about half of a Carolina Chickadee's diet comes from plants. What is it eating the rest of the year?",
+  "choices": [
+   "Mostly insects and spiders",
+   "Mostly small fish from ponds",
+   "Mostly acorns and big nuts",
+   "Mostly flower nectar and sap"
+  ],
+  "explanation": "In spring and summer chickadees eat mainly insects and spiders to feed their fast-growing chicks.",
+  "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/lifehistory"
+ },
+ {
+  "category": "Birds",
+  "topic": "Bird nests & eggs",
+  "question": "A House Wren will fill a nest box, an old can, or even a boot with what?",
+  "choices": [
+   "Small sticks and twigs",
+   "Mud mixed with grass",
+   "Only soft pine needles",
+   "Only wet, rotting leaves"
+  ],
+  "explanation": "House Wrens stuff cavities with twigs and then add a soft lining.",
+  "url": "https://www.allaboutbirds.org/guide/House_Wren/lifehistory"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal tracks & scat",
+  "question": "You find a cat-like paw print with four toes and NO claw marks. Which animal is most likely?",
+  "choices": [
+   "Bobcat",
+   "Coyote",
+   "Red Fox",
+   "Black Bear"
+  ],
+  "explanation": "Cats walk with their claws pulled in, so bobcat prints usually show no claw marks. Coyote and fox prints do.",
+  "url": "https://georgiawildlife.com/sites/default/files/wrd/pdf/fact-sheets/2007_bobcat.pdf"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal tracks & scat",
+  "question": "Coyote tracks usually show claw marks. Why?",
+  "choices": [
+   "Dogs and coyotes cannot pull their claws in",
+   "They walk only on their toes, so claws touch the soil",
+   "Their claws are always covered in sticky mud",
+   "They dig into the ground with each step they take"
+  ],
+  "explanation": "Members of the dog family have non-retractable claws that stay out and leave marks in the print.",
+  "url": "https://dnr.maryland.gov/wildlife/Documents/Key-Common-Mammal-Tracks.pdf"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Why do beavers have chisel-shaped orange front teeth?",
+  "choices": [
+   "They gnaw wood; the teeth keep growing and contain iron",
+   "They use them to crack open clam shells and dig up river mussels",
+   "They dig long tunnels through hard rock under the pond",
+   "The orange color comes from eating carrots and pumpkins"
+  ],
+  "explanation": "Beaver incisors never stop growing, and iron makes the enamel hard and orange, so they stay sharp from gnawing.",
+  "url": "https://nationalzoo.si.edu/animals/news/8-facts-celebrate-international-beaver-day"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Which describes the teeth of a White-tailed Deer?",
+  "choices": [
+   "No upper front teeth; it pulls plants against its gum",
+   "Long sharp fangs in front for tearing meat and bone",
+   "Constantly growing chisel teeth in the front of the jaw",
+   "Tiny teeth only in the lower jaw, with none in the upper"
+  ],
+  "explanation": "Deer are plant eaters. They bite browse with lower front teeth against a hard upper pad.",
+  "url": "https://www.mass.gov/doc/living-with-deer-fact-sheet/download"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "A White-tailed Deer has four stomach chambers. What is this for?",
+  "choices": [
+   "Digesting tough plant food",
+   "Storing water for dry weather",
+   "Digesting meat and bones",
+   "Making milk for fawns"
+  ],
+  "explanation": "Deer are plant eaters with a four-chambered stomach that breaks down leaves, twigs, and acorns.",
+  "url": "https://oepos.ca.uky.edu/content/white-tailed-deer"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "What happens to a buck White-tailed Deer's antlers each year?",
+  "choices": [
+   "He sheds them each winter and regrows a pair by summer",
+   "They stay on his head for his whole life and keep growing",
+   "They grow only on does and fall off after fawns arrive",
+   "They fall off in summer and do not grow back until fall"
+  ],
+  "explanation": "Antlers are shed each winter. Bucks grow new ones from April through August.",
+  "url": "https://oepos.ca.uky.edu/content/white-tailed-deer"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "How is an Armadillo litter unusual?",
+  "choices": [
+   "Mothers usually have four babies from one egg",
+   "Mothers lay a clutch of leathery eggs in a burrow",
+   "Babies are born already wearing a fully hard shell",
+   "Mothers give birth to about 20 babies at once"
+  ],
+  "explanation": "Nine-banded Armadillos nearly always have identical quadruplets that came from one fertilized egg.",
+  "url": "https://biokids.umich.edu/critters/Dasypus_novemcinctus"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "When are Black Bear cubs born?",
+  "choices": [
+   "In winter, while the mother is in her den",
+   "In summer, while the mother feeds at a berry patch",
+   "In fall, while the mother climbs a mountaintop",
+   "Cubs hatch from eggs in a nest each spring"
+  ],
+  "explanation": "Mother bears give birth to tiny cubs in January while denning. They come out in spring.",
+  "url": "https://www.mndnr.gov/mammals/blackbear.html"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Opossums help yards by eating many of which pests?",
+  "choices": [
+   "Ticks",
+   "Deer",
+   "Snakes only",
+   "Acorns"
+  ],
+  "explanation": "An opossum can eat thousands of ticks in a season, which can carry diseases.",
+  "url": "https://grapescout.ca.uky.edu/raccoonsandopossums"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal behavior & signs",
+  "question": "When young Opossums get too big for the pouch, how do they travel?",
+  "choices": [
+   "Riding on the mother's back",
+   "Walking far ahead alone",
+   "Hanging from the father's tail",
+   "Staying in the den until adult size"
+  ],
+  "explanation": "After about two months in the pouch, the babies climb onto mom's back.",
+  "url": "https://dnr.wisconsin.gov/topic/WildlifeHabitat/orphan/Opossum"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal tracks & scat",
+  "question": "Which sign tells you a Mole, not a Vole, is in your yard?",
+  "choices": [
+   "Cone-shaped piles of soil with hidden holes",
+   "Golf-ball-sized open holes in the grass and mulch",
+   "Narrow grass trails with no soil piled up beside them",
+   "Gnawed bark at the base of young shrubs and trees"
+  ],
+  "explanation": "Moles push up mounds of dirt as they dig, while voles use open holes and surface runways.",
+  "url": "https://hgic.clemson.edu/factsheet/how-to-tell-the-difference-between-moles-voles/"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "An Eastern Chipmunk is an omnivore. What does that mean?",
+  "choices": [
+   "It eats both plants and animals",
+   "It eats only seeds and nuts it finds",
+   "It eats only meat and bones of animals",
+   "It eats only insects and worms"
+  ],
+  "explanation": "Chipmunks eat seeds and nuts but also insects. They spread seeds, which helps new plants grow.",
+  "url": "https://oepos.ca.uky.edu/content/eastern-chipmunk"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Georgia DNR says coyotes are omnivores. What does that mean for their diet?",
+  "choices": [
+   "They eat small mammals, carrion and plants as available",
+   "They eat only deer, hunting in packs of a dozen or more",
+   "They eat only fruit and nuts that have fallen from the trees",
+   "They eat only insects and grubs dug out of rotten logs"
+  ],
+  "explanation": "Coyotes are flexible eaters. Their diet shifts with whatever food is most available.",
+  "url": "https://georgiawildlife.com/sites/default/files/wrd/pdf/uwp/UWP%20Coyote%20Fact%20Sheet.pdf"
+ },
+ {
+  "category": "Mammals",
+  "topic": "Mammal teeth & diet",
+  "question": "Which meal might a Raccoon eat in one night?",
+  "choices": [
+   "Berries, a frog, and a crayfish",
+   "Only grass and clover from lawns",
+   "Only tree bark and pine needles",
+   "Only fish from the ocean"
+  ],
+  "explanation": "Raccoons are omnivores. They eat fruit and berries and hunt rodents, frogs, and crayfish.",
+  "url": "https://grapescout.ca.uky.edu/raccoonsandopossums"
+ }
+]

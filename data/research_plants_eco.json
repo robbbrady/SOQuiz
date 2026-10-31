@@ -1,0 +1,444 @@
+[
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Yellow Poplar is also called Tulip Poplar. Its large cup-shaped flowers look like what?",
+  "choices": [
+   "A tulip",
+   "A rose",
+   "A dandelion",
+   "A bell pepper"
+  ],
+  "explanation": "The yellow-green flowers with orange markings look like tulips, which gives the tree its second name.",
+  "url": "https://plants.ces.ncsu.edu/plants/liriodendron-tulipifera/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which tree has leaves with four lobes and a flat, squared-off tip, as if cut with scissors?",
+  "choices": [
+   "Yellow Poplar",
+   "Southern Red Oak",
+   "American Sycamore",
+   "Eastern Red Cedar"
+  ],
+  "explanation": "Yellow Poplar leaves have four main lobes and a broad, squared-off tip. They turn golden yellow in fall.",
+  "url": "https://plants.ces.ncsu.edu/plants/liriodendron-tulipifera/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "The showy white 'petals' of a Flowering Dogwood are really what?",
+  "choices": [
+   "Bracts, leaf-like parts around tiny flowers",
+   "Seed pods that split open wide in early spring",
+   "Young leaves that turn bright white each spring",
+   "Strips of bark that curl up and turn white"
+  ],
+  "explanation": "The four big white parts are bracts. The real flowers are tiny, green and clustered in the middle.",
+  "url": "https://plants.ces.ncsu.edu/plants/cornus-florida/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Which tree grows fruit that looks like a blackberry, ripening from red to dark purple in summer?",
+  "choices": [
+   "Red Mulberry",
+   "Black Cherry",
+   "Flowering Dogwood",
+   "American Sycamore"
+  ],
+  "explanation": "Red Mulberry fruit looks like a long blackberry. Catbirds, mockingbirds, foxes and squirrels eat it.",
+  "url": "https://plants.ces.ncsu.edu/plants/morus-rubra/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Red Mulberry leaves are best described as:",
+  "choices": [
+   "Heart-shaped with toothed edges",
+   "Needle-like and in bundles",
+   "Made of 15 to 23 small leaflets",
+   "Shaped like a tulip with four lobes"
+  ],
+  "explanation": "Red Mulberry leaves are heart-shaped, toothed and rough on top. Some leaves on new shoots are lobed.",
+  "url": "https://plants.ces.ncsu.edu/plants/morus-rubra/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "American Pokeweed is not a tree even though it can grow 4 to 10 feet tall. What color are its stems?",
+  "choices": [
+   "Purple to reddish-burgundy",
+   "Bright orange with yellow spots",
+   "White and peeling like birch bark",
+   "Dark gray with deep ridges"
+  ],
+  "explanation": "Pokeweed is a soft, non-woody plant with thick purple-red stems. The stems die back in winter, but the thick root survives.",
+  "url": "https://plants.ces.ncsu.edu/plants/phytolacca-americana/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "A Black Walnut nut is covered by a thick husk. What is the husk like?",
+  "choices": [
+   "Fleshy and yellow-green, and it stains skin and clothes",
+   "Hard, woody and covered in sharp prickles, like a chestnut",
+   "Thin and papery with a flat wing, like a maple seed",
+   "Soft, red and sweet, so birds eat it like a berry"
+  ],
+  "explanation": "The round nut hides inside a fleshy green husk that leaves stains. Squirrels love the nut inside.",
+  "url": "https://plants.ces.ncsu.edu/plants/juglans-nigra/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Which oak has leaf lobes that end in tiny bristles?",
+  "choices": [
+   "Southern Red Oak",
+   "Black Walnut Tree",
+   "American Sycamore",
+   "Eastern Red Cedar"
+  ],
+  "explanation": "Southern Red Oak lobes are bristle-tipped. White Oak lobes are smooth and rounded.",
+  "url": "https://plants.ces.ncsu.edu/plants/quercus-falcata/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "How long does a Southern Red Oak acorn take to mature?",
+  "choices": [
+   "Two growing seasons",
+   "Only a few short weeks",
+   "About ten full years",
+   "It is ripe when the flower fades"
+  ],
+  "explanation": "Red oak acorns, such as the Southern Red Oak's, need two growing seasons. Deer, turkeys, jays and bears eat them.",
+  "url": "https://plants.ces.ncsu.edu/plants/quercus-falcata/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "The strong wood of White Oak is used to make what?",
+  "choices": [
+   "Barrels and flooring",
+   "Paper tissue",
+   "Matches and toothpicks",
+   "Cedar chests"
+  ],
+  "explanation": "White Oak hardwood is used for flooring, woodwork, and barrels. Old sailing ships were also built from it.",
+  "url": "https://plants.ces.ncsu.edu/plants/quercus-alba/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Evergreen vs deciduous",
+  "question": "How many needles are in each bundle of a Loblolly Pine?",
+  "choices": [
+   "Three needles each",
+   "Two needles each",
+   "Five needles each",
+   "One single needle each"
+  ],
+  "explanation": "Loblolly Pine needles come in bundles of three and are 6 to 10 inches long.",
+  "url": "https://plants.ces.ncsu.edu/plants/pinus-taeda/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Leaf types & arrangement",
+  "question": "Mature Eastern Red Cedar branches are covered with what kind of leaves?",
+  "choices": [
+   "Tiny overlapping scales",
+   "Long needles in a bundle",
+   "Large, lobed leaf blades with pointed tips",
+   "Heart-shaped blades with toothed edges"
+  ],
+  "explanation": "Adult red cedar leaves are small scales. Young shoots may have prickly, needle-like leaves.",
+  "url": "https://plants.ces.ncsu.edu/plants/juniperus-virginiana/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "What kind of fruit does Trumpet Creeper make after its orange flowers fade?",
+  "choices": [
+   "A long, bean-like pod that splits to free winged seeds",
+   "A blue berry with a waxy coating that birds eat in winter",
+   "A pair of winged helicopter seeds that spin down",
+   "A fuzzy round ball that hangs on a long stalk"
+  ],
+  "explanation": "The pod is 3 to 5 inches long. When it splits open, wind carries the flat winged seeds away.",
+  "url": "https://plants.ces.ncsu.edu/plants/campsis-radicans/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "How does Muscadine hold on as it climbs?",
+  "choices": [
+   "With curling tendrils",
+   "With aerial rootlets like hairy feet",
+   "By twisting its leaf stalks around a tree",
+   "By sticking with sap"
+  ],
+  "explanation": "Muscadine climbs with simple, unbranched tendrils. Poison Ivy and Trumpet Creeper cling with aerial rootlets instead.",
+  "url": "https://plants.ces.ncsu.edu/plants/vitis-rotundifolia/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Poison Ivy can hurt people, but its dull white berries are eaten by which animals?",
+  "choices": [
+   "Songbirds and woodpeckers",
+   "Only humans and pet dogs",
+   "No animals, because they are too bitter",
+   "Only fish and frogs living in ponds"
+  ],
+  "explanation": "Birds can safely eat Poison Ivy berries and spread the seeds. People should still never touch the plant.",
+  "url": "https://plants.ces.ncsu.edu/plants/toxicodendron-radicans/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "A blackberry is not one big berry. What is it made of?",
+  "choices": [
+   "Many tiny juicy fruits (drupelets) stuck together",
+   "One large seed wrapped inside one thick, smooth skin",
+   "A hard woody shell with several nuts packed inside",
+   "A long green pod that holds many small round beans"
+  ],
+  "explanation": "Each little bump on a blackberry is its own tiny fruit with a seed. Together they form one aggregate fruit.",
+  "url": "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "A Blackberry cane grows leaves in its first year. What happens in its second year?",
+  "choices": [
+   "It produces flowers and fruit, then dies",
+   "It grows into a thick tree trunk and lives for decades",
+   "It loses all of its roots and grows new ones",
+   "It grows acorns and nuts in the late summer"
+  ],
+  "explanation": "Blackberry canes live two years: they grow the first year, fruit the second, then die back while new canes replace them.",
+  "url": "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Poison ivy & dangerous plants",
+  "question": "Which part of the Black Cherry tree can make livestock and pets sick?",
+  "choices": [
+   "Its leaves and seeds, which contain cyanide",
+   "Only the smell of its bark when it is scratched",
+   "Only the pollen from its spring flowers",
+   "Nothing, because every part of the tree is safe"
+  ],
+  "explanation": "Black Cherry leaves, fruit pits and seeds contain cyanide compounds. Birds eat the ripe fruit, but people should not.",
+  "url": "https://plants.ces.ncsu.edu/plants/prunus-serotina/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "Which tree opens small red flowers in late winter, before its leaves appear?",
+  "choices": [
+   "Red Maple",
+   "White Oak",
+   "Loblolly Pine",
+   "Black Walnut"
+  ],
+  "explanation": "Red Maple flowers in January to March, and it has red seeds and red fall leaves too. It is one of the first trees to bloom.",
+  "url": "https://plants.ces.ncsu.edu/plants/acer-rubrum/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Fruits, seeds & dispersal",
+  "question": "The seed ball of an American Sycamore hangs from the branch like an ornament. How do its seeds spread?",
+  "choices": [
+   "They fly off the fuzzy ball on tiny downy tufts",
+   "They are dropped in a husk that splits in four",
+   "A papery samara wing spins them like a helicopter",
+   "Raccoons carry the whole ball back to their dens"
+  ],
+  "explanation": "The ball breaks apart in fall and each seed floats away on the wind, carried by a tuft of fluff. Finches and chickadees eat them.",
+  "url": "https://plants.ces.ncsu.edu/plants/platanus-occidentalis/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "Why are Green Ash trees in danger across the United States?",
+  "choices": [
+   "A beetle, the emerald ash borer, kills the trees",
+   "They absorb too much salt from road crews each winter",
+   "Squirrels eat nearly all of the seeds each autumn",
+   "Their leaves release a poison that kills nearby trees"
+  ],
+  "explanation": "The emerald ash borer, a beetle from Asia found in the U.S. in 2002, usually kills an ash within 3 to 5 years.",
+  "url": "https://plants.ces.ncsu.edu/plants/fraxinus-pennsylvanica/"
+ },
+ {
+  "category": "Plants",
+  "topic": "Plants & wildlife links",
+  "question": "The blue, waxy cones of Eastern Red Cedar are a favorite winter food of which bird?",
+  "choices": [
+   "Cedar Waxwing",
+   "Great Horned Owl",
+   "Great Blue Heron",
+   "Ruby-throated Hummingbird"
+  ],
+  "explanation": "Cedar Waxwings eat the juniper 'berries'. The dense evergreen branches also give songbirds winter cover.",
+  "url": "https://plants.ces.ncsu.edu/plants/juniperus-virginiana/"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion has rugged mountains with cool, clear, fast-flowing streams?",
+  "choices": [
+   "Blue Ridge",
+   "Southern Coastal Plains",
+   "Southeastern Plains",
+   "Piedmont"
+  ],
+  "explanation": "The Blue Ridge is Georgia's mountain ecoregion. Its steep, forested slopes feed high-gradient streams with cool water.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "The Okefenokee Swamp, with tea-colored water and peat beds, is in which ecoregion?",
+  "choices": [
+   "Southern Coastal Plains",
+   "Southwestern Appalachians",
+   "Southeastern Plains",
+   "Ridge and Valley"
+  ],
+  "explanation": "The Okefenokee is a flat, swampy lowland in the Southern Coastal Plains. Its water is dark from plant material.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion lies just south of the Piedmont, past the Fall Line?",
+  "choices": [
+   "Southeastern Plains",
+   "Blue Ridge",
+   "Ridge and Valley",
+   "Southwestern Appalachians"
+  ],
+  "explanation": "The Fall Line is the Piedmont's southern edge. Below it, the land becomes the flatter, sandier Southeastern Plains.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Lookout Mountain and Sand Mountain in northwest Georgia belong to which ecoregion?",
+  "choices": [
+   "Southwestern Appalachians",
+   "Southeastern Plains",
+   "Northern Blue Ridge Mountains",
+   "Southern Coastal Plains"
+  ],
+  "explanation": "The Southwestern Appalachians cover only Georgia's far northwest corner. Lookout and Sand Mountains are flat-topped plateaus there.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Farm fields of peanuts, cotton, soybeans and pecans are most common in which ecoregion?",
+  "choices": [
+   "Southeastern Plains",
+   "Blue Ridge",
+   "Southwestern Appalachians",
+   "Ridge and Valley"
+  ],
+  "explanation": "The Southeastern Plains have broad, gently rolling land and sandy soils that are good for crops such as peanuts and cotton.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "In the Ridge and Valley, where are most farms and towns found?",
+  "choices": [
+   "In the wide valleys; forests cover many ridges",
+   "On the steepest mountaintops, above the clouds",
+   "Out on the sandy barrier islands near the coast",
+   "Along the tidal salt marshes of the coast"
+  ],
+  "explanation": "The valleys have fertile limestone and shale soils for farms. The steep ridges stay forested. The region also has many springs and caves.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Much of the Piedmont was farmed long ago. What is the land like today?",
+  "choices": [
+   "Pine and hardwood woods, pasture and growing cities",
+   "Salt marshes, barrier islands and sandy beaches by the sea",
+   "Bare rock mountaintops and cold, fast mountain streams",
+   "Flat sandy peanut and cotton fields everywhere"
+  ],
+  "explanation": "Much of the Piedmont was once cotton and crop land. Today it is mostly woodland, pasture and fast-growing suburbs.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "The Piedmont is described as a transition between which two kinds of land?",
+  "choices": [
+   "Mountains and the coastal plain",
+   "Desert and tropical rainforest",
+   "Ocean cliffs and sandy beaches",
+   "Swamp forest and open salt marsh"
+  ],
+  "explanation": "Piedmont means 'foot of the mountain'. It is rolling hills between the mountains to the northwest and the flatter coastal plain.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Ecoregion names & features",
+  "question": "Which ecoregion has Georgia's lowest land, including barrier islands and tidal marshes?",
+  "choices": [
+   "Southern Coastal Plains",
+   "Piedmont",
+   "Southeastern Plains",
+   "Southwestern Appalachians"
+  ],
+  "explanation": "The Sea Islands and coastal marshes are Georgia's lowest ground. Live oak and palmetto grow on the islands.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "On dry, sandy Sand Hills in the Southeastern Plains, which trees dominate?",
+  "choices": [
+   "Longleaf pine and turkey oak",
+   "Yellow Poplar and sugar maple",
+   "Bald cypress and water tupelo",
+   "Live oak and palmetto"
+  ],
+  "explanation": "Sandy, low-nutrient soil drains fast, so drought-tolerant longleaf pine and turkey oak do best on Sand Hills.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "In which ecoregion do shady ravines grow Yellow Poplar with beech and sugar maple, while mountaintops grow oaks and shortleaf pine?",
+  "choices": [
+   "Southwestern Appalachians",
+   "Southern Coastal Plains",
+   "Southeastern Plains",
+   "Sea Islands and Salt Marsh Coast"
+  ],
+  "explanation": "Moist ravines in the Southwestern Appalachians hold cool, rich forests. The drier summits favor oaks and pines.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ },
+ {
+  "category": "Georgia Ecoregions",
+  "topic": "Soil & ecoregion species",
+  "question": "Sinkholes, springs and limesink ponds are found on the Dougherty Plain in southwest Georgia. Which ecoregion is it part of?",
+  "choices": [
+   "Southeastern Plains",
+   "Ridge and Valley",
+   "Piedmont",
+   "Southwestern Appalachians"
+  ],
+  "explanation": "Water slowly dissolves limestone underground, making sinkholes and springs in the Southeastern Plains.",
+  "url": "https://www.epa.gov/eco-research/ecoregion-download-files-state-region-4"
+ }
+]

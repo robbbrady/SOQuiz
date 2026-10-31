@@ -516,6 +516,18 @@ for i, (cat, topic, q, right, wrong, expl) in enumerate(G, 1):
     out.append(dict(id=f"g{i:03d}", category=cat, topic=topic, question=q, choices=ch,
                     answerIndex=0, explanation=expl, source="gap"))
 
+# ---- researched questions (data/research_*.json; correct answer is choices[0]) ----
+import glob
+n = 0
+for f in sorted(glob.glob(str(ROOT / "data" / "research_*.json"))):
+    for x in json.loads(pathlib.Path(f).read_text(encoding="utf8")):
+        n += 1
+        assert len(x["choices"]) == 4 and len(set(x["choices"])) == 4, x["question"]
+        assert x["category"] in [c[0] for c in CATS], x["category"]
+        out.append(dict(id=f"r{n:03d}", category=x["category"], topic=x["topic"], question=x["question"],
+                        choices=x["choices"], answerIndex=0, explanation=x["explanation"],
+                        source="research", url=x.get("url", "")))
+
 assert len({q["id"] for q in out}) == len(out)
 (ROOT / "questions.json").write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf8")
 from collections import Counter
